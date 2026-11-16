@@ -3,5 +3,6 @@ https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank
 
 Documents:
 
-.[Uploading Business process explanation.pdf…]()
+.[Business process explanation.pdf](https://github.com/user-attachments/files/34924038/Business.process.explanation.pdf)
 
+.[Uploading Business process explanation.pdf…]()
