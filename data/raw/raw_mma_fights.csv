@@ -1,0 +1,612 @@
+﻿fight_id,event_id,event_date,event_name,venue,district,promoter,fighter1_code,fighter1_wins,fighter1_losses,fighter1_gym,fighter1_coach,fighter2_code,fighter2_wins,fighter2_losses,fighter2_gym,fighter2_coach,weight_class,result_method,round_finished,winner_code,ticket_price_text,fight_details
+1001,201,4/13/2022,Event 201,Kigali Convention Centre,Gasabo,East Africa MMA,F093,10,2,Lion Gym,Coach A,F015,8,3,Tiger Gym,Coach B,Welterweight,Decision - Majority,4,F015,$25.00 ,Decision - Majority; R4
+1002,202,12/10/2022,Event 202,Kigali Arena,Kicukiro,Kigali Fight Night,F158,12,1,Eagle Gym,Coach C,F038,9,4,Shark Gym,Coach D,Lightweight,KO/TKO,3,F158,$50.00 ,KO/TKO; R3
+1003,203,7/9/2022,Event 203,BK Arena,Nyarugenge,East Africa MMA,F175,7,5,Lion Gym,Coach A,F051,11,2,Eagle Gym,Coach C,Lightweight,Submission,4,F175,$50.00 ,Submission; R4
+1004,204,1/15/2023,Event 204,Kigali Convention Centre,Gasabo,Kigali Fight Night,F042,15,0,Tiger Gym,Coach B,F110,6,6,Shark Gym,Coach D,Heavyweight,Decision - Unanimous,5,F042,$75.00 ,Decision - Unanimous; R5
+1005,205,3/20/2023,Event 205,Kigali Arena,Kigali,Kigali Fight Night,F067,9,2,Eagle Gym,Coach C,F089,10,3,Lion Gym,Coach A,Featherweight,KO/TKO,2,F067,$25.00 ,KO/TKO; R2
+1006,206,5/12/2023,Event 206,BK Arena,Kicukiro,East Africa MMA,F101,8,4,Lion Gym,Coach A,F122,13,2,Shark Gym,Coach D,Welterweight,Submission,3,F101,$50.00 ,Submission; R3
+1007,207,6/18/2023,Event 207,Kigali Convention Centre,Gasabo,Kigali Fight Night,F033,11,3,Tiger Gym,Coach B,F077,7,5,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F077,$25.00 ,Decision - Split; R5
+1008,208,8/25/2023,Event 208,Kigali Arena,Nyarugenge,East Africa MMA,F145,9,1,Lion Gym,Coach A,F019,10,4,Tiger Gym,Coach B,Middleweight,KO/TKO,1,F145,$75.00 ,KO/TKO; R1
+1009,209,9/30/2023,Event 209,BK Arena,KIGALI,Kigali Fight Night,F088,12,2,Eagle Gym,Coach C,F156,8,6,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F088,$50.00 ,Decision - Unanimous; R5
+1010,210,11/11/2023,Event 210,Kigali Convention Centre,Gasabo,East Africa MMA,F064,6,3,Shark Gym,Coach D,F092,11,1,Lion Gym,Coach A,Featherweight,Submission,2,F092,$25.00 ,Submission; R2
+1011,211,1/20/2024,Event 211,Kigali Arena,Kicukiro,Kigali Fight Night,F119,14,1,Tiger Gym,Coach B,F045,9,3,Eagle Gym,Coach C,Welterweight,KO/TKO,4,F119,$75.00 ,KO/TKO; R4
+1012,212,2/14/2024,Event 212,BK Arena,Nyarugenge,East Africa MMA,F071,10,5,Lion Gym,Coach A,F133,12,2,Shark Gym,Coach D,Lightweight,Decision - Majority,5,F071,$50.00 ,Decision - Majority; R5
+1013,213,3/8/2024,Event 213,Kigali Convention Centre,Kigali City,Kigali Fight Night,F157,8,2,Eagle Gym,Coach C,F028,9,4,Tiger Gym,Coach B,Heavyweight,KO/TKO,2,F157,$75.00 ,KO/TKO; R2
+1014,214,4/19/2024,Event 214,Kigali Arena,Gasabo,East Africa MMA,F090,13,0,Shark Gym,Coach D,F167,7,7,Lion Gym,Coach A,Middleweight,Submission,3,F090,$50.00 ,Submission; R3
+1015,215,5/25/2024,Event 215,BK Arena,kigali ,Kigali Fight Night,F112,9,3,Lion Gym,Coach A,F055,10,2,Eagle Gym,Coach C,Bantamweight,Decision - Split,5,F055,$25.00 ,Decision - Split; R5
+1016,216,6/15/2024,Event 216,Kigali Convention Centre,Gasabo,East Africa MMA,F021,10,2,Lion Gym,Coach A,F134,8,4,Tiger Gym,Coach B,Welterweight,Decision - Unanimous,5,F021,$50.00 ,Decision - Unanimous; R5
+1017,217,7/20/2024,Event 217,Kigali Arena,Kicukiro,Kigali Fight Night,F098,12,1,Eagle Gym,Coach C,F061,9,3,Shark Gym,Coach D,Lightweight,KO/TKO,3,F098,$75.00 ,KO/TKO; R3
+1018,218,5/10/2022,Event 218,BK Arena,Nyarugenge,East Africa MMA,F150,7,5,Shark Gym,Coach D,F044,11,2,Lion Gym,Coach A,Featherweight,Submission,4,F044,$25.00 ,Submission; R4
+1019,219,6/18/2022,Event 219,Kigali Convention Centre,Gasabo,Kigali Fight Night,F073,9,3,Tiger Gym,Coach B,F128,10,5,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F128,$50.00 ,Decision - Split; R5
+1020,220,8/22/2022,Event 220,Kigali Arena,Kigali,East Africa MMA,F162,13,2,Lion Gym,Coach A,F009,6,6,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F162,$75.00 ,KO/TKO; R1
+1021,221,9/14/2022,Event 221,BK Arena,KIGALI,Kigali Fight Night,F036,8,4,Eagle Gym,Coach C,F117,12,1,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F036,$25.00 ,Decision - Unanimous; R5
+1022,222,10/5/2022,Event 222,Kigali Convention Centre,Gasabo,East Africa MMA,F129,11,3,Shark Gym,Coach D,F052,9,2,Lion Gym,Coach A,Welterweight,Submission,2,F129,$50.00 ,Submission; R2
+1023,223,11/12/2022,Event 223,Kigali Arena,Kicukiro,Kigali Fight Night,F084,10,1,Tiger Gym,Coach B,F140,7,4,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F084,$75.00 ,Decision - Majority; R5
+1024,224,1/8/2023,Event 224,BK Arena,Nyarugenge,East Africa MMA,F011,9,2,Lion Gym,Coach A,F168,13,3,Shark Gym,Coach D,Middleweight,KO/TKO,2,F011,$50.00 ,KO/TKO; R2
+1025,225,2/19/2023,Event 225,Kigali Convention Centre,kigali ,Kigali Fight Night,F173,12,0,Eagle Gym,Coach C,F066,8,5,Tiger Gym,Coach B,Featherweight,Submission,3,F173,$25.00 ,Submission; R3
+1026,226,3/25/2023,Event 226,Kigali Arena,Gasabo,East Africa MMA,F049,7,6,Shark Gym,Coach D,F102,10,2,Lion Gym,Coach A,Welterweight,KO/TKO,4,F102,$50.00 ,KO/TKO; R4
+1027,227,4/30/2023,Event 227,BK Arena,Kicukiro,Kigali Fight Night,F137,11,2,Tiger Gym,Coach B,F075,9,4,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F075,$75.00 ,Decision - Split; R5
+1028,228,5/21/2023,Event 228,Kigali Convention Centre,Nyarugenge,East Africa MMA,F058,10,3,Lion Gym,Coach A,F149,12,1,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F058,$25.00 ,Decision - Unanimous; R5
+1029,229,6/11/2023,Event 229,Kigali Arena,Gasabo,Kigali Fight Night,F166,8,4,Eagle Gym,Coach C,F031,11,2,Tiger Gym,Coach B,Heavyweight,Submission,3,F166,$50.00 ,Submission; R3
+1030,230,7/16/2023,Event 230,BK Arena,Kigali City,East Africa MMA,F094,13,1,Shark Gym,Coach D,F080,9,3,Lion Gym,Coach A,Middleweight,KO/TKO,2,F094,$75.00 ,KO/TKO; R2
+1031,231,8/27/2023,Event 231,Kigali Convention Centre,Kigali,Kigali Fight Night,F017,9,2,Tiger Gym,Coach B,F113,10,4,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F017,$50.00 ,Decision - Majority; R5
+1032,232,9/17/2023,Event 232,Kigali Arena,KIGALI,East Africa MMA,F124,12,2,Lion Gym,Coach A,F039,8,5,Shark Gym,Coach D,Welterweight,Submission,4,F124,$25.00 ,Submission; R4
+1033,233,10/29/2023,Event 233,BK Arena,Gasabo,Kigali Fight Night,F070,10,3,Eagle Gym,Coach C,F151,11,1,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F070,$50.00 ,KO/TKO; R3
+1034,234,11/19/2023,Event 234,Kigali Convention Centre,Kicukiro,East Africa MMA,F146,7,6,Shark Gym,Coach D,F063,9,2,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F063,$75.00 ,Decision - Split; R5
+1035,235,12/10/2023,Event 235,Kigali Arena,Nyarugenge,Kigali Fight Night,F022,11,1,Lion Gym,Coach A,F095,10,3,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F022,$50.00 ,Decision - Unanimous; R5
+1036,236,1/14/2024,Event 236,BK Arena,Gasabo,East Africa MMA,F159,9,4,Tiger Gym,Coach B,F027,12,2,Shark Gym,Coach D,Featherweight,KO/TKO,1,F159,$25.00 ,KO/TKO; R1
+1037,237,2/25/2024,Event 237,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F053,10,2,Eagle Gym,Coach C,F130,8,5,Lion Gym,Coach A,Welterweight,Submission,3,F053,$50.00 ,Submission; R3
+1038,238,3/15/2024,Event 238,Kigali Arena,Kigali,East Africa MMA,F118,12,3,Shark Gym,Coach D,F046,9,1,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F118,$75.00 ,Decision - Majority; R5
+1039,239,4/21/2024,Event 239,BK Arena,Gasabo,Kigali Fight Night,F086,8,4,Lion Gym,Coach A,F172,11,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F086,$50.00 ,KO/TKO; R2
+1040,240,5/12/2024,Event 240,Kigali Convention Centre,Nyarugenge,East Africa MMA,F141,13,1,Tiger Gym,Coach B,F068,10,4,Shark Gym,Coach D,Middleweight,Submission,4,F141,$25.00 ,Submission; R4
+1041,241,6/8/2024,Event 241,Kigali Arena,KIGALI,Kigali Fight Night,F030,9,3,Eagle Gym,Coach C,F106,12,0,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F030,$50.00 ,Decision - Unanimous; R5
+1042,242,7/13/2024,Event 242,BK Arena,Gasabo,East Africa MMA,F154,10,2,Shark Gym,Coach D,F082,8,6,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F154,$75.00 ,KO/TKO; R3
+1043,243,4/9/2022,Event 243,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F065,11,2,Lion Gym,Coach A,F121,9,3,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F121,$50.00 ,Decision - Split; R5
+1044,244,5/28/2022,Event 244,Kigali Arena,Nyarugenge,East Africa MMA,F138,8,5,Tiger Gym,Coach B,F014,10,2,Shark Gym,Coach D,Lightweight,Submission,2,F138,$25.00 ,Submission; R2
+1045,245,7/3/2022,Event 245,BK Arena,Kigali,East Africa MMA,F096,12,1,Eagle Gym,Coach C,F057,9,4,Lion Gym,Coach A,Middleweight,KO/TKO,4,F096,$50.00 ,KO/TKO; R4
+1046,246,8/15/2022,Event 246,Kigali Convention Centre,Gasabo,Kigali Fight Night,F007,10,3,Shark Gym,Coach D,F143,11,2,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F007,$75.00 ,Decision - Unanimous; R5
+1047,247,9/25/2022,Event 247,Kigali Arena,Kigali City,East Africa MMA,F169,9,2,Lion Gym,Coach A,F034,8,5,Eagle Gym,Coach C,Featherweight,Submission,3,F169,$50.00 ,Submission; R3
+1048,248,10/16/2022,Event 248,BK Arena,KICUKIRO,Kigali Fight Night,F041,11,1,Tiger Gym,Coach B,F125,10,3,Shark Gym,Coach D,Welterweight,KO/TKO,2,F041,$25.00 ,KO/TKO; R2
+1049,249,11/20/2022,Event 249,Kigali Convention Centre,Gasabo,East Africa MMA,F114,10,4,Eagle Gym,Coach C,F060,9,2,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F114,$50.00 ,Decision - Majority; R5
+1050,250,12/18/2022,Event 250,Kigali Arena,Nyarugenge,Kigali Fight Night,F079,12,2,Shark Gym,Coach D,F152,8,4,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F152,$75.00 ,Decision - Split; R5
+1051,251,1/22/2023,Event 251,BK Arena,Gasabo,East Africa MMA,F025,9,3,Lion Gym,Coach A,F108,11,1,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F025,$50.00 ,KO/TKO; R1
+1052,252,2/12/2023,Event 252,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F160,13,0,Tiger Gym,Coach B,F047,10,5,Shark Gym,Coach D,Featherweight,Submission,4,F160,$25.00 ,Submission; R4
+1053,253,3/19/2023,Event 253,Kigali Arena,Kigali,East Africa MMA,F062,8,4,Eagle Gym,Coach C,F136,12,2,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F062,$50.00 ,Decision - Unanimous; R5
+1054,254,4/16/2023,Event 254,BK Arena,Gasabo,Kigali Fight Night,F148,10,2,Shark Gym,Coach D,F020,9,3,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F148,$75.00 ,KO/TKO; R3
+1055,255,5/28/2023,Event 255,Kigali Convention Centre,Nyarugenge,East Africa MMA,F089,11,3,Lion Gym,Coach A,F170,8,6,Eagle Gym,Coach C,Heavyweight,Submission,2,F089,$50.00 ,Submission; R2
+1056,256,6/25/2023,Event 256,Kigali Arena,KIGALI,Kigali Fight Night,F004,12,1,Tiger Gym,Coach B,F093,10,2,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F004,$25.00 ,Decision - Majority; R5
+1057,257,7/30/2023,Event 257,BK Arena,Gasabo,East Africa MMA,F126,9,4,Eagle Gym,Coach C,F056,11,2,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F056,$50.00 ,Decision - Split; R5
+1058,258,8/20/2023,Event 258,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F164,10,3,Shark Gym,Coach D,F072,9,5,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F164,$75.00 ,KO/TKO; R4
+1059,259,9/24/2023,Event 259,Kigali Arena,Nyarugenge,East Africa MMA,F012,11,2,Lion Gym,Coach A,F144,10,1,Eagle Gym,Coach C,Welterweight,Submission,3,F012,$50.00 ,Submission; R3
+1060,260,10/15/2023,Event 260,BK Arena,Gasabo,Kigali Fight Night,F174,8,5,Tiger Gym,Coach B,F035,12,2,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F174,$25.00 ,Decision - Unanimous; R5
+1061,261,11/26/2023,Event 261,Kigali Convention Centre,Kigali City,East Africa MMA,F099,10,1,Eagle Gym,Coach C,F078,9,4,Lion Gym,Coach A,Middleweight,KO/TKO,2,F099,$50.00 ,KO/TKO; R2
+1062,262,12/17/2023,Event 262,Kigali Arena,Kicukiro,Kigali Fight Night,F050,12,3,Shark Gym,Coach D,F109,8,5,Tiger Gym,Coach B,Featherweight,Submission,4,F050,$75.00 ,Submission; R4
+1063,263,1/28/2024,Event 263,BK Arena,Gasabo,East Africa MMA,F131,9,2,Lion Gym,Coach A,F043,11,3,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F131,$50.00 ,Decision - Majority; R5
+1064,264,2/18/2024,Event 264,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F006,10,4,Tiger Gym,Coach B,F147,12,1,Shark Gym,Coach D,Lightweight,KO/TKO,1,F006,$25.00 ,KO/TKO; R1
+1065,265,3/24/2024,Event 265,Kigali Arena,Kigali,East Africa MMA,F116,11,2,Eagle Gym,Coach C,F081,9,3,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F081,$50.00 ,Decision - Split; R5
+1066,266,4/28/2024,Event 266,BK Arena,Gasabo,East Africa MMA,F023,9,2,Lion Gym,Coach A,F155,10,4,Tiger Gym,Coach B,Welterweight,Decision - Unanimous,5,F023,$50.00 ,Decision - Unanimous; R5
+1067,267,5/19/2024,Event 267,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F139,12,1,Eagle Gym,Coach C,F069,8,5,Shark Gym,Coach D,Lightweight,KO/TKO,3,F139,$75.00 ,KO/TKO; R3
+1068,268,6/22/2024,Event 268,Kigali Arena,Nyarugenge,East Africa MMA,F087,10,3,Shark Gym,Coach D,F016,11,2,Lion Gym,Coach A,Featherweight,Submission,4,F087,$25.00 ,Submission; R4
+1069,269,7/14/2024,Event 269,BK Arena,Kigali,Kigali Fight Night,F002,9,4,Tiger Gym,Coach B,F120,10,1,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F120,$50.00 ,Decision - Split; R5
+1070,270,4/17/2022,Event 270,Kigali Convention Centre,Gasabo,East Africa MMA,F165,13,2,Lion Gym,Coach A,F037,7,6,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F165,$75.00 ,KO/TKO; R1
+1071,271,5/15/2022,Event 271,Kigali Arena,KIGALI,Kigali Fight Night,F054,8,3,Eagle Gym,Coach C,F104,12,1,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F054,$25.00 ,Decision - Unanimous; R5
+1072,272,6/26/2022,Event 272,BK Arena,Kicukiro,East Africa MMA,F132,11,2,Shark Gym,Coach D,F059,9,4,Lion Gym,Coach A,Welterweight,Submission,2,F132,$50.00 ,Submission; R2
+1073,273,7/17/2022,Event 273,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F076,10,1,Tiger Gym,Coach B,F142,7,5,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F076,$75.00 ,Decision - Majority; R5
+1074,274,8/28/2022,Event 274,Kigali Arena,Gasabo,East Africa MMA,F018,9,2,Lion Gym,Coach A,F171,13,3,Shark Gym,Coach D,Middleweight,KO/TKO,2,F018,$50.00 ,KO/TKO; R2
+1075,275,9/18/2022,Event 275,BK Arena,Kigali City,Kigali Fight Night,F176,12,0,Eagle Gym,Coach C,F083,8,4,Tiger Gym,Coach B,Featherweight,Submission,3,F176,$25.00 ,Submission; R3
+1076,276,10/9/2022,Event 276,Kigali Convention Centre,Kigali,East Africa MMA,F040,7,5,Shark Gym,Coach D,F105,10,2,Lion Gym,Coach A,Welterweight,KO/TKO,4,F105,$50.00 ,KO/TKO; R4
+1077,277,11/13/2022,Event 277,Kigali Arena,Gasabo,Kigali Fight Night,F140,11,3,Tiger Gym,Coach B,F097,9,1,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F097,$75.00 ,Decision - Split; R5
+1078,278,12/11/2022,Event 278,BK Arena,KICUKIRO,East Africa MMA,F061,10,2,Lion Gym,Coach A,F158,12,1,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F061,$25.00 ,Decision - Unanimous; R5
+1079,279,1/15/2023,Event 279,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F168,13,3,Eagle Gym,Coach C,F030,9,3,Tiger Gym,Coach B,Heavyweight,Submission,3,F168,$50.00 ,Submission; R3
+1080,280,2/26/2023,Event 280,Kigali Arena,Gasabo,East Africa MMA,F097,9,1,Shark Gym,Coach D,F082,8,6,Lion Gym,Coach A,Middleweight,KO/TKO,2,F097,$75.00 ,KO/TKO; R2
+1081,281,3/12/2023,Event 281,BK Arena,Kigali,Kigali Fight Night,F015,8,3,Tiger Gym,Coach B,F116,11,2,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F015,$50.00 ,Decision - Majority; R5
+1082,282,4/23/2023,Event 282,Kigali Convention Centre,Gasabo,East Africa MMA,F127,12,2,Lion Gym,Coach A,F038,9,4,Shark Gym,Coach D,Welterweight,Submission,4,F127,$25.00 ,Submission; R4
+1083,283,5/14/2023,Event 283,Kigali Arena,Kicukiro,Kigali Fight Night,F073,9,3,Eagle Gym,Coach C,F153,11,1,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F073,$50.00 ,KO/TKO; R3
+1084,284,6/18/2023,Event 284,BK Arena,Nyarugenge,East Africa MMA,F149,12,1,Shark Gym,Coach D,F066,8,5,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F066,$75.00 ,Decision - Split; R5
+1085,285,7/9/2023,Event 285,Kigali Convention Centre,Kigali City,Kigali Fight Night,F025,9,3,Lion Gym,Coach A,F098,12,1,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F025,$50.00 ,Decision - Unanimous; R5
+1086,286,8/13/2023,Event 286,Kigali Arena,KIGALI,East Africa MMA,F161,9,4,Tiger Gym,Coach B,F026,12,2,Shark Gym,Coach D,Featherweight,KO/TKO,1,F161,$25.00 ,KO/TKO; R1
+1087,287,9/10/2023,Event 287,BK Arena,Gasabo,Kigali Fight Night,F056,10,2,Eagle Gym,Coach C,F133,12,2,Lion Gym,Coach A,Welterweight,Submission,3,F056,$50.00 ,Submission; R3
+1088,288,10/22/2023,Event 288,Kigali Convention Centre,Kicukiro,East Africa MMA,F120,10,1,Shark Gym,Coach D,F048,9,3,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F120,$75.00 ,Decision - Majority; R5
+1089,289,11/12/2023,Event 289,Kigali Arena,Nyarugenge,Kigali Fight Night,F088,12,2,Lion Gym,Coach A,F175,7,5,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F088,$50.00 ,KO/TKO; R2
+1090,290,12/3/2023,Event 290,BK Arena,Gasabo,East Africa MMA,F144,10,1,Tiger Gym,Coach B,F071,10,5,Shark Gym,Coach D,Middleweight,Submission,4,F144,$25.00 ,Submission; R4
+1091,291,1/21/2024,Event 291,Kigali Convention Centre,Kigali,Kigali Fight Night,F033,11,3,Eagle Gym,Coach C,F109,8,5,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F033,$50.00 ,Decision - Unanimous; R5
+1092,292,2/11/2024,Event 292,Kigali Arena,Kicukiro,East Africa MMA,F157,8,2,Shark Gym,Coach D,F085,8,6,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F157,$75.00 ,KO/TKO; R3
+1093,293,3/17/2024,Event 293,BK Arena,Gasabo,Kigali Fight Night,F068,10,4,Lion Gym,Coach A,F124,12,2,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F124,$50.00 ,Decision - Split; R5
+1094,294,4/7/2024,Event 294,Kigali Convention Centre,Nyarugenge,East Africa MMA,F140,7,4,Tiger Gym,Coach B,F017,9,2,Shark Gym,Coach D,Lightweight,Submission,2,F140,$25.00 ,Submission; R2
+1095,295,5/26/2024,Event 295,Kigali Arena,KIGALI,Kigali Fight Night,F099,10,1,Eagle Gym,Coach C,F060,9,2,Lion Gym,Coach A,Middleweight,KO/TKO,4,F099,$50.00 ,KO/TKO; R4
+1096,296,6/16/2024,Event 296,BK Arena,Gasabo,East Africa MMA,F010,10,3,Shark Gym,Coach D,F146,7,6,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F010,$75.00 ,Decision - Unanimous; R5
+1097,297,7/21/2024,Event 297,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F171,13,3,Lion Gym,Coach A,F037,7,6,Eagle Gym,Coach C,Featherweight,Submission,3,F171,$50.00 ,Submission; R3
+1098,298,4/24/2022,Event 298,Kigali Arena,Nyarugenge,East Africa MMA,F044,11,2,Tiger Gym,Coach B,F128,10,5,Shark Gym,Coach D,Welterweight,KO/TKO,2,F044,$25.00 ,KO/TKO; R2
+1099,299,5/29/2022,Event 299,BK Arena,Kigali,East Africa MMA,F117,12,1,Eagle Gym,Coach C,F063,9,2,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F117,$50.00 ,Decision - Majority; R5
+1100,300,6/19/2022,Event 300,Kigali Convention Centre,Gasabo,Kigali Fight Night,F082,8,6,Shark Gym,Coach D,F155,10,4,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F155,$75.00 ,Decision - Split; R5
+1101,301,7/24/2022,Event 301,Kigali Arena,Kigali City,East Africa MMA,F028,9,4,Lion Gym,Coach A,F111,11,1,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F028,$50.00 ,KO/TKO; R1
+1102,302,8/21/2022,Event 302,BK Arena,KICUKIRO,Kigali Fight Night,F163,13,0,Tiger Gym,Coach B,F050,12,3,Shark Gym,Coach D,Featherweight,Submission,4,F163,$25.00 ,Submission; R4
+1103,303,9/11/2022,Event 303,Kigali Convention Centre,Gasabo,East Africa MMA,F065,11,2,Eagle Gym,Coach C,F139,12,1,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F065,$50.00 ,Decision - Unanimous; R5
+1104,304,10/30/2022,Event 304,Kigali Arena,Nyarugenge,Kigali Fight Night,F151,11,1,Shark Gym,Coach D,F023,9,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F151,$75.00 ,KO/TKO; R3
+1105,305,11/27/2022,Event 305,BK Arena,Kigali,East Africa MMA,F092,11,1,Lion Gym,Coach A,F173,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F092,$50.00 ,Submission; R2
+1106,306,12/17/2022,Event 306,Kigali Convention Centre,Gasabo,Kigali Fight Night,F007,10,3,Tiger Gym,Coach B,F096,12,1,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F007,$25.00 ,Decision - Majority; R5
+1107,307,1/29/2023,Event 307,Kigali Arena,KIGALI,East Africa MMA,F129,11,3,Eagle Gym,Coach C,F059,9,4,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F059,$50.00 ,Decision - Split; R5
+1108,308,2/19/2023,Event 308,BK Arena,Kicukiro,Kigali Fight Night,F167,7,7,Shark Gym,Coach D,F075,9,4,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F167,$75.00 ,KO/TKO; R4
+1109,309,3/26/2023,Event 309,Kigali Convention Centre,Nyarugenge,East Africa MMA,F015,8,3,Lion Gym,Coach A,F147,12,1,Eagle Gym,Coach C,Welterweight,Submission,3,F015,$50.00 ,Submission; R3
+1110,310,4/16/2023,Event 310,Kigali Arena,Gasabo,Kigali Fight Night,F177,12,2,Tiger Gym,Coach B,F038,9,4,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F177,$25.00 ,Decision - Unanimous; R5
+1111,311,5/21/2023,Event 311,BK Arena,Kigali,Kigali Fight Night,F102,10,2,Eagle Gym,Coach C,F081,9,3,Lion Gym,Coach A,Middleweight,KO/TKO,2,F102,$50.00 ,KO/TKO; R2
+1112,312,6/11/2023,Event 312,Kigali Convention Centre,Gasabo,East Africa MMA,F053,10,2,Shark Gym,Coach D,F112,9,3,Tiger Gym,Coach B,Featherweight,Submission,4,F053,$75.00 ,Submission; R4
+1113,313,7/16/2023,Event 313,Kigali Arena,Kicukiro,Kigali Fight Night,F134,8,4,Lion Gym,Coach A,F067,9,2,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F134,$50.00 ,Decision - Majority; R5
+1114,314,8/27/2023,Event 314,BK Arena,Nyarugenge,East Africa MMA,F009,6,6,Tiger Gym,Coach B,F020,9,3,Shark Gym,Coach D,Lightweight,KO/TKO,1,F009,$25.00 ,KO/TKO; R1
+1115,315,9/17/2023,Event 315,Kigali Convention Centre,Gasabo,Kigali Fight Night,F119,14,1,Eagle Gym,Coach C,F084,10,1,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F084,$50.00 ,Decision - Split; R5
+1116,316,10/8/2023,Event 316,BK Arena,Gasabo,East Africa MMA,F052,9,2,Lion Gym,Coach A,F135,11,3,Eagle Gym,Coach C,Welterweight,Decision - Unanimous,5,F052,$50.00 ,Decision - Unanimous; R5
+1117,317,11/19/2023,Event 317,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F157,8,2,Shark Gym,Coach D,F030,9,3,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F157,$75.00 ,KO/TKO; R3
+1118,318,12/10/2023,Event 318,Kigali Arena,Nyarugenge,East Africa MMA,F089,10,3,Eagle Gym,Coach C,F046,9,1,Lion Gym,Coach A,Featherweight,Submission,4,F089,$25.00 ,Submission; R4
+1119,319,1/7/2024,Event 319,BK Arena,Kigali,Kigali Fight Night,F003,9,4,Tiger Gym,Coach B,F123,10,1,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F123,$50.00 ,Decision - Split; R5
+1120,320,2/18/2024,Event 320,Kigali Convention Centre,Gasabo,East Africa MMA,F167,7,7,Lion Gym,Coach A,F039,8,5,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F167,$75.00 ,KO/TKO; R1
+1121,321,3/10/2024,Event 321,Kigali Arena,KIGALI,Kigali Fight Night,F056,10,2,Eagle Gym,Coach C,F107,12,1,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F056,$25.00 ,Decision - Unanimous; R5
+1122,322,4/21/2024,Event 322,BK Arena,Kicukiro,East Africa MMA,F134,8,4,Shark Gym,Coach D,F062,8,4,Lion Gym,Coach A,Welterweight,Submission,2,F134,$50.00 ,Submission; R2
+1123,323,5/12/2024,Event 323,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F078,9,4,Tiger Gym,Coach B,F145,9,1,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F078,$75.00 ,Decision - Majority; R5
+1124,324,6/23/2024,Event 324,Kigali Arena,Gasabo,East Africa MMA,F021,10,2,Lion Gym,Coach A,F174,8,5,Shark Gym,Coach D,Middleweight,KO/TKO,2,F021,$50.00 ,KO/TKO; R2
+1125,325,7/14/2024,Event 325,BK Arena,Kigali City,Kigali Fight Night,F179,12,0,Eagle Gym,Coach C,F086,8,4,Tiger Gym,Coach B,Featherweight,Submission,3,F179,$25.00 ,Submission; R3
+1126,326,4/10/2022,Event 326,Kigali Convention Centre,Kigali,East Africa MMA,F042,15,0,Shark Gym,Coach D,F108,11,1,Lion Gym,Coach A,Welterweight,KO/TKO,4,F042,$50.00 ,KO/TKO; R4
+1127,327,5/21/2022,Event 327,Kigali Arena,Gasabo,Kigali Fight Night,F142,7,5,Tiger Gym,Coach B,F099,10,1,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F099,$75.00 ,Decision - Split; R5
+1128,328,6/12/2022,Event 328,BK Arena,KICUKIRO,East Africa MMA,F064,6,3,Lion Gym,Coach A,F161,9,4,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F064,$25.00 ,Decision - Unanimous; R5
+1129,329,7/31/2022,Event 329,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F170,8,6,Eagle Gym,Coach C,F033,11,3,Tiger Gym,Coach B,Heavyweight,Submission,3,F170,$50.00 ,Submission; R3
+1130,330,8/14/2022,Event 330,Kigali Arena,Gasabo,East Africa MMA,F099,10,1,Shark Gym,Coach D,F085,8,6,Lion Gym,Coach A,Middleweight,KO/TKO,2,F099,$75.00 ,KO/TKO; R2
+1131,331,9/25/2022,Event 331,BK Arena,Kigali,Kigali Fight Night,F017,9,2,Tiger Gym,Coach B,F119,14,1,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F017,$50.00 ,Decision - Majority; R5
+1132,332,10/16/2022,Event 332,Kigali Convention Centre,Gasabo,East Africa MMA,F130,8,5,Lion Gym,Coach A,F041,11,1,Shark Gym,Coach D,Welterweight,Submission,4,F130,$25.00 ,Submission; R4
+1133,333,11/6/2022,Event 333,Kigali Arena,Kicukiro,Kigali Fight Night,F076,10,1,Eagle Gym,Coach C,F156,8,6,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F076,$50.00 ,KO/TKO; R3
+1134,334,12/4/2022,Event 334,BK Arena,Nyarugenge,East Africa MMA,F152,8,4,Shark Gym,Coach D,F069,8,5,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F069,$75.00 ,Decision - Split; R5
+1135,335,1/8/2023,Event 335,Kigali Convention Centre,Kigali City,Kigali Fight Night,F028,9,4,Lion Gym,Coach A,F101,8,4,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F028,$50.00 ,Decision - Unanimous; R5
+1136,336,2/19/2023,Event 336,Kigali Arena,KIGALI,East Africa MMA,F164,10,3,Tiger Gym,Coach B,F029,12,2,Shark Gym,Coach D,Featherweight,KO/TKO,1,F164,$25.00 ,KO/TKO; R1
+1137,337,3/12/2023,Event 337,BK Arena,Gasabo,Kigali Fight Night,F059,9,4,Eagle Gym,Coach C,F136,12,2,Lion Gym,Coach A,Welterweight,Submission,3,F059,$50.00 ,Submission; R3
+1138,338,4/23/2023,Event 338,Kigali Convention Centre,Kicukiro,East Africa MMA,F123,10,1,Shark Gym,Coach D,F051,11,2,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F123,$75.00 ,Decision - Majority; R5
+1139,339,5/14/2023,Event 339,Kigali Arena,Nyarugenge,Kigali Fight Night,F091,11,2,Lion Gym,Coach A,F178,12,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F091,$50.00 ,KO/TKO; R2
+1140,340,6/25/2023,Event 340,BK Arena,Gasabo,East Africa MMA,F147,12,1,Tiger Gym,Coach B,F074,10,5,Shark Gym,Coach D,Middleweight,Submission,4,F147,$25.00 ,Submission; R4
+1141,341,7/9/2023,Event 341,Kigali Convention Centre,Kigali,Kigali Fight Night,F036,8,4,Eagle Gym,Coach C,F112,9,3,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F036,$50.00 ,Decision - Unanimous; R5
+1142,342,8/20/2023,Event 342,Kigali Arena,Kicukiro,East Africa MMA,F160,13,0,Shark Gym,Coach D,F088,12,2,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F160,$75.00 ,KO/TKO; R3
+1143,343,9/10/2023,Event 343,BK Arena,Gasabo,Kigali Fight Night,F071,10,5,Lion Gym,Coach A,F127,12,2,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F127,$50.00 ,Decision - Split; R5
+1144,344,10/29/2023,Event 344,Kigali Convention Centre,Nyarugenge,East Africa MMA,F143,11,2,Tiger Gym,Coach B,F020,9,3,Shark Gym,Coach D,Lightweight,Submission,2,F143,$25.00 ,Submission; R2
+1145,345,11/19/2023,Event 345,Kigali Arena,KIGALI,Kigali Fight Night,F102,10,2,Eagle Gym,Coach C,F063,9,2,Lion Gym,Coach A,Middleweight,KO/TKO,4,F102,$50.00 ,KO/TKO; R4
+1146,346,12/17/2023,Event 346,BK Arena,Gasabo,East Africa MMA,F013,10,3,Shark Gym,Coach D,F149,12,1,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F013,$75.00 ,Decision - Unanimous; R5
+1147,347,1/14/2024,Event 347,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F174,8,5,Lion Gym,Coach A,F040,7,5,Eagle Gym,Coach C,Featherweight,Submission,3,F174,$50.00 ,Submission; R3
+1148,348,2/25/2024,Event 348,Kigali Arena,Nyarugenge,East Africa MMA,F047,10,5,Tiger Gym,Coach B,F131,9,2,Shark Gym,Coach D,Welterweight,KO/TKO,2,F047,$25.00 ,KO/TKO; R2
+1149,349,3/24/2024,Event 349,BK Arena,Kigali,East Africa MMA,F120,10,1,Eagle Gym,Coach C,F066,8,5,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F120,$50.00 ,Decision - Majority; R5
+1150,350,4/14/2024,Event 350,Kigali Convention Centre,Gasabo,Kigali Fight Night,F085,8,6,Shark Gym,Coach D,F158,12,1,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F158,$75.00 ,Decision - Split; R5
+1151,351,5/19/2024,Event 351,Kigali Arena,Kigali City,East Africa MMA,F031,11,2,Lion Gym,Coach A,F114,10,4,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F031,$50.00 ,KO/TKO; R1
+1152,352,6/9/2024,Event 352,BK Arena,KICUKIRO,Kigali Fight Night,F166,8,4,Tiger Gym,Coach B,F053,10,2,Shark Gym,Coach D,Featherweight,Submission,4,F166,$25.00 ,Submission; R4
+1153,353,7/21/2024,Event 353,Kigali Convention Centre,Gasabo,East Africa MMA,F068,10,4,Eagle Gym,Coach C,F142,7,5,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F068,$50.00 ,Decision - Unanimous; R5
+1154,354,4/3/2022,Event 354,Kigali Arena,Nyarugenge,Kigali Fight Night,F154,10,2,Shark Gym,Coach D,F026,12,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F154,$75.00 ,KO/TKO; R3
+1155,355,5/8/2022,Event 355,BK Arena,Kigali,East Africa MMA,F095,10,3,Lion Gym,Coach A,F176,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F095,$50.00 ,Submission; R2
+1156,356,6/19/2022,Event 356,Kigali Convention Centre,Gasabo,Kigali Fight Night,F010,10,3,Tiger Gym,Coach B,F099,10,1,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F010,$25.00 ,Decision - Majority; R5
+1157,357,7/10/2022,Event 357,Kigali Arena,KIGALI,East Africa MMA,F132,11,2,Eagle Gym,Coach C,F062,8,4,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F062,$50.00 ,Decision - Split; R5
+1158,358,8/28/2022,Event 358,BK Arena,Kicukiro,Kigali Fight Night,F170,8,6,Shark Gym,Coach D,F078,9,4,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F170,$75.00 ,KO/TKO; R4
+1159,359,9/18/2022,Event 359,Kigali Convention Centre,Nyarugenge,East Africa MMA,F018,9,2,Lion Gym,Coach A,F150,7,5,Eagle Gym,Coach C,Welterweight,Submission,3,F018,$50.00 ,Submission; R3
+1160,360,10/23/2022,Event 360,Kigali Arena,Gasabo,Kigali Fight Night,F180,12,2,Tiger Gym,Coach B,F041,11,1,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F180,$25.00 ,Decision - Unanimous; R5
+1161,361,11/13/2022,Event 361,BK Arena,Kigali,Kigali Fight Night,F105,10,2,Eagle Gym,Coach C,F084,10,1,Lion Gym,Coach A,Middleweight,KO/TKO,2,F105,$50.00 ,KO/TKO; R2
+1162,362,12/11/2022,Event 362,Kigali Convention Centre,Gasabo,East Africa MMA,F056,10,2,Shark Gym,Coach D,F115,11,3,Tiger Gym,Coach B,Featherweight,Submission,4,F056,$75.00 ,Submission; R4
+1163,363,1/22/2023,Event 363,Kigali Arena,Kicukiro,Kigali Fight Night,F137,11,2,Lion Gym,Coach A,F070,10,3,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F137,$50.00 ,Decision - Majority; R5
+1164,364,2/12/2023,Event 364,BK Arena,Nyarugenge,East Africa MMA,F012,11,2,Tiger Gym,Coach B,F023,9,2,Shark Gym,Coach D,Lightweight,KO/TKO,1,F012,$25.00 ,KO/TKO; R1
+1165,365,3/19/2023,Event 365,Kigali Convention Centre,Gasabo,Kigali Fight Night,F122,13,2,Eagle Gym,Coach C,F087,10,3,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F087,$50.00 ,Decision - Split; R5
+1166,366,4/9/2023,Event 366,Kigali Arena,Kigali City,East Africa MMA,F032,9,3,Lion Gym,Coach A,F109,8,5,Eagle Gym,Coach C,Welterweight,Decision - Unanimous,5,F032,$50.00 ,Decision - Unanimous; R5
+1167,367,5/28/2023,Event 367,BK Arena,KIGALI,Kigali Fight Night,F160,13,0,Shark Gym,Coach D,F033,11,3,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F160,$75.00 ,KO/TKO; R3
+1168,368,6/18/2023,Event 368,Kigali Convention Centre,Gasabo,East Africa MMA,F092,11,1,Eagle Gym,Coach C,F049,7,6,Lion Gym,Coach A,Featherweight,Submission,4,F092,$25.00 ,Submission; R4
+1169,369,7/23/2023,Event 369,Kigali Arena,Kicukiro,Kigali Fight Night,F006,10,4,Tiger Gym,Coach B,F126,9,4,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F126,$50.00 ,Decision - Split; R5
+1170,370,8/13/2023,Event 370,BK Arena,Nyarugenge,East Africa MMA,F170,8,6,Lion Gym,Coach A,F042,15,0,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F170,$75.00 ,KO/TKO; R1
+1171,371,9/24/2023,Event 371,Kigali Convention Centre,Kigali,Kigali Fight Night,F059,9,4,Eagle Gym,Coach C,F110,6,6,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F059,$25.00 ,Decision - Unanimous; R5
+1172,372,10/15/2023,Event 372,Kigali Arena,Gasabo,East Africa MMA,F137,11,2,Shark Gym,Coach D,F065,11,2,Lion Gym,Coach A,Welterweight,Submission,2,F137,$50.00 ,Submission; R2
+1173,373,11/26/2023,Event 373,BK Arena,Kicukiro,Kigali Fight Night,F079,12,2,Tiger Gym,Coach B,F145,9,1,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F079,$75.00 ,Decision - Majority; R5
+1174,374,12/10/2023,Event 374,Kigali Convention Centre,Nyarugenge,East Africa MMA,F024,9,2,Lion Gym,Coach A,F177,12,2,Shark Gym,Coach D,Middleweight,KO/TKO,2,F024,$50.00 ,KO/TKO; R2
+1175,375,1/21/2024,Event 375,Kigali Arena,Gasabo,Kigali Fight Night,F182,12,0,Eagle Gym,Coach C,F089,10,3,Tiger Gym,Coach B,Featherweight,Submission,3,F182,$25.00 ,Submission; R3
+1176,376,2/11/2024,Event 376,BK Arena,Kigali,East Africa MMA,F045,9,3,Shark Gym,Coach D,F111,11,1,Lion Gym,Coach A,Welterweight,KO/TKO,4,F045,$50.00 ,KO/TKO; R4
+1177,377,3/17/2024,Event 377,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F145,9,1,Tiger Gym,Coach B,F102,10,2,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F102,$75.00 ,Decision - Split; R5
+1178,378,4/28/2024,Event 378,Kigali Arena,Nyarugenge,East Africa MMA,F067,9,2,Lion Gym,Coach A,F164,10,3,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F067,$25.00 ,Decision - Unanimous; R5
+1179,379,5/12/2024,Event 379,BK Arena,Gasabo,Kigali Fight Night,F173,12,0,Eagle Gym,Coach C,F036,8,4,Tiger Gym,Coach B,Heavyweight,Submission,3,F173,$50.00 ,Submission; R3
+1180,380,6/16/2024,Event 380,Kigali Convention Centre,KIGALI,East Africa MMA,F102,10,2,Shark Gym,Coach D,F088,12,2,Lion Gym,Coach A,Middleweight,KO/TKO,2,F102,$75.00 ,KO/TKO; R2
+1181,381,7/21/2024,Event 381,Kigali Arena,Kigali City,East Africa MMA,F020,9,3,Tiger Gym,Coach B,F122,13,2,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F020,$50.00 ,Decision - Majority; R5
+1182,382,4/17/2022,Event 382,BK Arena,Gasabo,Kigali Fight Night,F133,12,2,Lion Gym,Coach A,F044,11,2,Shark Gym,Coach D,Welterweight,Submission,4,F133,$25.00 ,Submission; R4
+1183,383,5/15/2022,Event 383,Kigali Convention Centre,Kicukiro,East Africa MMA,F079,12,2,Eagle Gym,Coach C,F159,9,4,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F079,$50.00 ,KO/TKO; R3
+1184,384,6/26/2022,Event 384,Kigali Arena,Nyarugenge,Kigali Fight Night,F155,10,4,Shark Gym,Coach D,F072,9,5,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F072,$75.00 ,Decision - Split; R5
+1185,385,7/17/2022,Event 385,BK Arena,Kigali,Kigali Fight Night,F031,11,2,Lion Gym,Coach A,F104,12,1,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F031,$50.00 ,Decision - Unanimous; R5
+1186,386,8/21/2022,Event 386,Kigali Convention Centre,Gasabo,East Africa MMA,F167,7,7,Tiger Gym,Coach B,F032,9,3,Shark Gym,Coach D,Featherweight,KO/TKO,1,F167,$25.00 ,KO/TKO; R1
+1187,387,9/11/2022,Event 387,Kigali Arena,Kicukiro,Kigali Fight Night,F062,8,4,Eagle Gym,Coach C,F139,12,1,Lion Gym,Coach A,Welterweight,Submission,3,F062,$50.00 ,Submission; R3
+1188,388,10/30/2022,Event 388,BK Arena,Gasabo,East Africa MMA,F126,9,4,Shark Gym,Coach D,F054,8,3,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F126,$75.00 ,Decision - Majority; R5
+1189,389,11/20/2022,Event 389,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F094,13,1,Lion Gym,Coach A,F181,12,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F094,$50.00 ,KO/TKO; R2
+1190,390,12/18/2022,Event 390,Kigali Arena,KIGALI,Kigali Fight Night,F150,7,5,Tiger Gym,Coach B,F077,7,5,Shark Gym,Coach D,Middleweight,Submission,4,F150,$25.00 ,Submission; R4
+1191,391,1/15/2023,Event 391,BK Arena,Kigali City,East Africa MMA,F039,8,5,Eagle Gym,Coach C,F115,11,3,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F039,$50.00 ,Decision - Unanimous; R5
+1192,392,2/26/2023,Event 392,Kigali Convention Centre,Gasabo,Kigali Fight Night,F163,13,0,Shark Gym,Coach D,F091,11,2,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F163,$75.00 ,KO/TKO; R3
+1193,393,3/19/2023,Event 393,Kigali Arena,Kicukiro,East Africa MMA,F074,10,5,Lion Gym,Coach A,F130,8,5,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F130,$50.00 ,Decision - Split; R5
+1194,394,4/16/2023,Event 394,BK Arena,Nyarugenge,East Africa MMA,F146,7,6,Tiger Gym,Coach B,F023,9,2,Shark Gym,Coach D,Lightweight,Submission,2,F146,$25.00 ,Submission; R2
+1195,395,5/21/2023,Event 395,Kigali Convention Centre,Gasabo,Kigali Fight Night,F105,10,2,Eagle Gym,Coach C,F066,8,5,Lion Gym,Coach A,Middleweight,KO/TKO,4,F105,$50.00 ,KO/TKO; R4
+1196,396,6/11/2023,Event 396,Kigali Arena,Kigali,East Africa MMA,F016,11,2,Shark Gym,Coach D,F152,8,4,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F016,$75.00 ,Decision - Unanimous; R5
+1197,397,7/30/2023,Event 397,BK Arena,KICUKIRO,Kigali Fight Night,F177,12,2,Lion Gym,Coach A,F043,11,3,Eagle Gym,Coach C,Featherweight,Submission,3,F177,$50.00 ,Submission; R3
+1198,398,8/20/2023,Event 398,Kigali Convention Centre,Gasabo,East Africa MMA,F050,12,3,Tiger Gym,Coach B,F134,8,4,Shark Gym,Coach D,Welterweight,KO/TKO,2,F050,$25.00 ,KO/TKO; R2
+1199,399,9/17/2023,Event 399,Kigali Arena,Nyarugenge,Kigali Fight Night,F123,10,1,Eagle Gym,Coach C,F069,8,5,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F123,$50.00 ,Decision - Majority; R5
+1200,400,10/8/2023,Event 400,BK Arena,Gasabo,Kigali Fight Night,F088,12,2,Shark Gym,Coach D,F161,9,4,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F161,$75.00 ,Decision - Split; R5
+1201,401,11/12/2023,Event 401,Kigali Convention Centre,Kicukiro,East Africa MMA,F034,8,5,Lion Gym,Coach A,F117,12,1,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F034,$50.00 ,KO/TKO; R1
+1202,402,12/3/2023,Event 402,Kigali Arena,Kigali,East Africa MMA,F169,9,2,Tiger Gym,Coach B,F056,10,2,Shark Gym,Coach D,Featherweight,Submission,4,F169,$25.00 ,Submission; R4
+1203,403,1/28/2024,Event 403,BK Arena,Gasabo,Kigali Fight Night,F071,10,5,Eagle Gym,Coach C,F145,9,1,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F071,$50.00 ,Decision - Unanimous; R5
+1204,404,2/18/2024,Event 404,Kigali Convention Centre,Nyarugenge,East Africa MMA,F157,8,2,Shark Gym,Coach D,F029,12,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F157,$75.00 ,KO/TKO; R3
+1205,405,3/10/2024,Event 405,Kigali Arena,KIGALI,Kigali Fight Night,F098,12,1,Lion Gym,Coach A,F179,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F098,$50.00 ,Submission; R2
+1206,406,4/21/2024,Event 406,BK Arena,Gasabo,East Africa MMA,F013,10,3,Tiger Gym,Coach B,F102,10,2,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F013,$25.00 ,Decision - Majority; R5
+1207,407,5/26/2024,Event 407,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F135,11,3,Eagle Gym,Coach C,F065,11,2,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F065,$50.00 ,Decision - Split; R5
+1208,408,6/9/2024,Event 408,Kigali Arena,Nyarugenge,East Africa MMA,F173,12,0,Shark Gym,Coach D,F081,9,3,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F173,$75.00 ,KO/TKO; R4
+1209,409,7/14/2024,Event 409,BK Arena,Kigali City,Kigali Fight Night,F021,10,2,Lion Gym,Coach A,F153,11,1,Eagle Gym,Coach C,Welterweight,Submission,3,F021,$50.00 ,Submission; R3
+1210,410,4/24/2022,Event 410,Kigali Convention Centre,Gasabo,East Africa MMA,F183,12,2,Tiger Gym,Coach B,F044,11,2,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F183,$25.00 ,Decision - Unanimous; R5
+1211,411,5/29/2022,Event 411,Kigali Arena,Kicukiro,Kigali Fight Night,F108,11,1,Eagle Gym,Coach C,F087,10,3,Lion Gym,Coach A,Middleweight,KO/TKO,2,F108,$50.00 ,KO/TKO; R2
+1212,412,6/19/2022,Event 412,BK Arena,Gasabo,East Africa MMA,F059,9,4,Shark Gym,Coach D,F118,12,3,Tiger Gym,Coach B,Featherweight,Submission,4,F059,$75.00 ,Submission; R4
+1213,413,7/24/2022,Event 413,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F140,7,4,Lion Gym,Coach A,F073,9,3,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F140,$50.00 ,Decision - Majority; R5
+1214,414,8/14/2022,Event 414,Kigali Arena,Kigali,East Africa MMA,F015,8,3,Tiger Gym,Coach B,F026,12,2,Shark Gym,Coach D,Lightweight,KO/TKO,1,F015,$25.00 ,KO/TKO; R1
+1215,415,9/25/2022,Event 415,BK Arena,Gasabo,Kigali Fight Night,F125,10,3,Eagle Gym,Coach C,F090,13,0,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F090,$50.00 ,Decision - Split; R5
+1216,416,10/9/2022,Event 416,Kigali Convention Centre,Kicukiro,East Africa MMA,F037,7,6,Lion Gym,Coach A,F112,9,3,Eagle Gym,Coach C,Welterweight,Decision - Unanimous,5,F037,$50.00 ,Decision - Unanimous; R5
+1217,417,11/27/2022,Event 417,Kigali Arena,Nyarugenge,Kigali Fight Night,F163,13,0,Shark Gym,Coach D,F036,8,4,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F163,$75.00 ,KO/TKO; R3
+1218,418,12/18/2022,Event 418,BK Arena,KIGALI,East Africa MMA,F095,10,3,Eagle Gym,Coach C,F052,9,2,Lion Gym,Coach A,Featherweight,Submission,4,F095,$25.00 ,Submission; R4
+1219,419,1/29/2023,Event 419,Kigali Convention Centre,Gasabo,Kigali Fight Night,F009,6,6,Tiger Gym,Coach B,F129,11,3,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F129,$50.00 ,Decision - Split; R5
+1220,420,2/12/2023,Event 420,Kigali Arena,Kigali City,East Africa MMA,F173,12,0,Lion Gym,Coach A,F045,9,3,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F173,$75.00 ,KO/TKO; R1
+1221,421,3/26/2023,Event 421,BK Arena,Gasabo,Kigali Fight Night,F062,8,4,Eagle Gym,Coach C,F113,10,4,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F062,$25.00 ,Decision - Unanimous; R5
+1222,422,4/9/2023,Event 422,Kigali Convention Centre,Kicukiro,East Africa MMA,F140,7,4,Shark Gym,Coach D,F068,10,4,Lion Gym,Coach A,Welterweight,Submission,2,F140,$50.00 ,Submission; R2
+1223,423,5/14/2023,Event 423,Kigali Arena,Nyarugenge,Kigali Fight Night,F082,8,6,Tiger Gym,Coach B,F148,10,2,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F082,$75.00 ,Decision - Majority; R5
+1224,424,6/25/2023,Event 424,BK Arena,Kigali,East Africa MMA,F027,12,2,Lion Gym,Coach A,F180,12,2,Shark Gym,Coach D,Middleweight,KO/TKO,2,F027,$50.00 ,KO/TKO; R2
+1225,425,7/16/2023,Event 425,Kigali Convention Centre,Gasabo,Kigali Fight Night,F185,12,0,Eagle Gym,Coach C,F092,11,1,Tiger Gym,Coach B,Featherweight,Submission,3,F185,$25.00 ,Submission; R3
+1226,426,8/27/2023,Event 426,Kigali Arena,KIGALI,East Africa MMA,F048,9,3,Shark Gym,Coach D,F114,10,4,Lion Gym,Coach A,Welterweight,KO/TKO,4,F048,$50.00 ,KO/TKO; R4
+1227,427,9/10/2023,Event 427,BK Arena,Kicukiro,Kigali Fight Night,F148,10,2,Tiger Gym,Coach B,F105,10,2,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F105,$75.00 ,Decision - Split; R5
+1228,428,10/22/2023,Event 428,Kigali Convention Centre,Nyarugenge,East Africa MMA,F070,10,3,Lion Gym,Coach A,F167,7,7,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F070,$25.00 ,Decision - Unanimous; R5
+1229,429,11/19/2023,Event 429,Kigali Arena,Gasabo,Kigali Fight Night,F176,12,0,Eagle Gym,Coach C,F039,8,5,Tiger Gym,Coach B,Heavyweight,Submission,3,F176,$50.00 ,Submission; R3
+1230,430,12/17/2023,Event 430,BK Arena,Kigali,East Africa MMA,F105,10,2,Shark Gym,Coach D,F091,11,2,Lion Gym,Coach A,Middleweight,KO/TKO,2,F105,$75.00 ,KO/TKO; R2
+1231,431,1/7/2024,Event 431,Kigali Convention Centre,Kigali City,Kigali Fight Night,F023,9,2,Tiger Gym,Coach B,F125,10,3,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F023,$50.00 ,Decision - Majority; R5
+1232,432,2/25/2024,Event 432,Kigali Arena,Kicukiro,East Africa MMA,F136,12,2,Lion Gym,Coach A,F047,10,5,Shark Gym,Coach D,Welterweight,Submission,4,F136,$25.00 ,Submission; R4
+1233,433,3/24/2024,Event 433,BK Arena,Gasabo,Kigali Fight Night,F082,8,6,Eagle Gym,Coach C,F162,13,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F082,$50.00 ,KO/TKO; R3
+1234,434,4/7/2024,Event 434,Kigali Convention Centre,Nyarugenge,East Africa MMA,F158,12,1,Shark Gym,Coach D,F075,9,4,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F075,$75.00 ,Decision - Split; R5
+1235,435,5/19/2024,Event 435,Kigali Arena,Gasabo,Kigali Fight Night,F034,8,5,Lion Gym,Coach A,F107,12,1,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F034,$50.00 ,Decision - Unanimous; R5
+1236,436,6/2/2024,Event 436,BK Arena,KIGALI,East Africa MMA,F170,8,6,Tiger Gym,Coach B,F035,12,2,Shark Gym,Coach D,Featherweight,KO/TKO,1,F170,$25.00 ,KO/TKO; R1
+1237,437,7/7/2024,Event 437,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F065,11,2,Eagle Gym,Coach C,F142,7,5,Lion Gym,Coach A,Welterweight,Submission,3,F065,$50.00 ,Submission; R3
+1238,438,4/10/2022,Event 438,Kigali Arena,Nyarugenge,East Africa MMA,F129,11,3,Shark Gym,Coach D,F057,9,4,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F129,$75.00 ,Decision - Majority; R5
+1239,439,5/22/2022,Event 439,BK Arena,Kigali,Kigali Fight Night,F097,9,1,Lion Gym,Coach A,F184,12,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F097,$50.00 ,KO/TKO; R2
+1240,440,6/12/2022,Event 440,Kigali Convention Centre,Gasabo,East Africa MMA,F153,11,1,Tiger Gym,Coach B,F080,9,3,Shark Gym,Coach D,Middleweight,Submission,4,F153,$25.00 ,Submission; R4
+1241,441,7/31/2022,Event 441,Kigali Arena,Kigali City,East Africa MMA,F042,15,0,Eagle Gym,Coach C,F118,12,3,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F042,$50.00 ,Decision - Unanimous; R5
+1242,442,8/21/2022,Event 442,BK Arena,KICUKIRO,Kigali Fight Night,F166,8,4,Shark Gym,Coach D,F094,13,1,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F166,$75.00 ,KO/TKO; R3
+1243,443,9/18/2022,Event 443,Kigali Convention Centre,Gasabo,Kigali Fight Night,F077,7,5,Lion Gym,Coach A,F133,12,2,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F133,$50.00 ,Decision - Split; R5
+1244,444,10/16/2022,Event 444,Kigali Arena,Nyarugenge,East Africa MMA,F149,12,1,Tiger Gym,Coach B,F026,12,2,Shark Gym,Coach D,Lightweight,Submission,2,F149,$25.00 ,Submission; R2
+1245,445,11/13/2022,Event 445,BK Arena,Kigali,Kigali Fight Night,F108,11,1,Eagle Gym,Coach C,F069,8,5,Lion Gym,Coach A,Middleweight,KO/TKO,4,F108,$50.00 ,KO/TKO; R4
+1246,446,12/4/2022,Event 446,Kigali Convention Centre,Gasabo,East Africa MMA,F019,10,4,Shark Gym,Coach D,F155,10,4,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F019,$75.00 ,Decision - Unanimous; R5
+1247,447,1/22/2023,Event 447,Kigali Arena,Kicukiro,Kigali Fight Night,F180,12,2,Lion Gym,Coach A,F046,9,1,Eagle Gym,Coach C,Featherweight,Submission,3,F180,$50.00 ,Submission; R3
+1248,448,2/19/2023,Event 448,BK Arena,Gasabo,East Africa MMA,F053,10,2,Tiger Gym,Coach B,F137,11,2,Shark Gym,Coach D,Welterweight,KO/TKO,2,F053,$25.00 ,KO/TKO; R2
+1249,449,3/12/2023,Event 449,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F126,9,4,Eagle Gym,Coach C,F072,9,5,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F126,$50.00 ,Decision - Majority; R5
+1250,450,4/23/2023,Event 450,Kigali Arena,KIGALI,Kigali Fight Night,F091,11,2,Shark Gym,Coach D,F164,10,3,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F164,$75.00 ,Decision - Split; R5
+1251,451,5/28/2023,Event 451,BK Arena,Gasabo,East Africa MMA,F037,7,6,Lion Gym,Coach A,F120,10,1,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F037,$50.00 ,KO/TKO; R1
+1252,452,6/18/2023,Event 452,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F172,11,2,Tiger Gym,Coach B,F059,9,4,Shark Gym,Coach D,Featherweight,Submission,4,F172,$25.00 ,Submission; R4
+1253,453,7/9/2023,Event 453,Kigali Arena,Nyarugenge,East Africa MMA,F074,10,5,Eagle Gym,Coach C,F148,10,2,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F074,$50.00 ,Decision - Unanimous; R5
+1254,454,8/13/2023,Event 454,BK Arena,Kigali,East Africa MMA,F160,13,0,Shark Gym,Coach D,F032,9,3,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F160,$75.00 ,KO/TKO; R3
+1255,455,9/24/2023,Event 455,Kigali Convention Centre,Gasabo,Kigali Fight Night,F101,8,4,Lion Gym,Coach A,F182,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F101,$50.00 ,Submission; R2
+1256,456,10/15/2023,Event 456,Kigali Arena,Kigali City,East Africa MMA,F016,11,2,Tiger Gym,Coach B,F105,10,2,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F016,$25.00 ,Decision - Majority; R5
+1257,457,11/26/2023,Event 457,BK Arena,KICUKIRO,Kigali Fight Night,F138,8,5,Eagle Gym,Coach C,F068,10,4,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F068,$50.00 ,Decision - Split; R5
+1258,458,12/10/2023,Event 458,Kigali Convention Centre,Gasabo,East Africa MMA,F176,12,0,Shark Gym,Coach D,F084,10,1,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F176,$75.00 ,KO/TKO; R4
+1259,459,1/14/2024,Event 459,Kigali Arena,Nyarugenge,Kigali Fight Night,F024,9,2,Lion Gym,Coach A,F156,8,6,Eagle Gym,Coach C,Welterweight,Submission,3,F024,$50.00 ,Submission; R3
+1260,460,2/11/2024,Event 460,BK Arena,Gasabo,Kigali Fight Night,F186,12,2,Tiger Gym,Coach B,F047,10,5,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F186,$25.00 ,Decision - Unanimous; R5
+1261,461,3/17/2024,Event 461,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F111,11,1,Eagle Gym,Coach C,F090,13,0,Lion Gym,Coach A,Middleweight,KO/TKO,2,F111,$50.00 ,KO/TKO; R2
+1262,462,4/28/2024,Event 462,Kigali Arena,Kigali,East Africa MMA,F062,8,4,Shark Gym,Coach D,F121,9,3,Tiger Gym,Coach B,Featherweight,Submission,4,F062,$75.00 ,Submission; R4
+1263,463,5/12/2024,Event 463,BK Arena,Gasabo,Kigali Fight Night,F143,11,2,Lion Gym,Coach A,F076,10,1,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F143,$50.00 ,Decision - Majority; R5
+1264,464,6/23/2024,Event 464,Kigali Convention Centre,Nyarugenge,East Africa MMA,F018,9,2,Tiger Gym,Coach B,F029,12,2,Shark Gym,Coach D,Lightweight,KO/TKO,1,F018,$25.00 ,KO/TKO; R1
+1265,465,7/28/2024,Event 465,Kigali Arena,KIGALI,Kigali Fight Night,F131,9,2,Eagle Gym,Coach C,F093,10,2,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F093,$50.00 ,Decision - Split; R5
+1266,466,4/3/2022,Event 466,BK Arena,Kigali City,East Africa MMA,F040,7,5,Lion Gym,Coach A,F115,11,3,Eagle Gym,Coach C,Welterweight,Decision - Unanimous,5,F040,$50.00 ,Decision - Unanimous; R5
+1267,467,5/8/2022,Event 467,Kigali Convention Centre,Gasabo,Kigali Fight Night,F166,8,4,Shark Gym,Coach D,F039,8,5,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F166,$75.00 ,KO/TKO; R3
+1268,468,6/5/2022,Event 468,Kigali Arena,Kicukiro,East Africa MMA,F098,12,1,Eagle Gym,Coach C,F055,9,4,Lion Gym,Coach A,Featherweight,Submission,4,F098,$25.00 ,Submission; R4
+1269,469,7/10/2022,Event 469,BK Arena,Nyarugenge,Kigali Fight Night,F012,11,2,Tiger Gym,Coach B,F132,11,2,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F132,$50.00 ,Decision - Split; R5
+1270,470,8/28/2022,Event 470,Kigali Convention Centre,Kigali,East Africa MMA,F176,12,0,Lion Gym,Coach A,F048,9,3,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F176,$75.00 ,KO/TKO; R1
+1271,471,9/18/2022,Event 471,Kigali Arena,Gasabo,Kigali Fight Night,F065,11,2,Eagle Gym,Coach C,F116,11,2,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F065,$25.00 ,Decision - Unanimous; R5
+1272,472,10/23/2022,Event 472,BK Arena,KICUKIRO,East Africa MMA,F143,11,2,Shark Gym,Coach D,F071,10,5,Lion Gym,Coach A,Welterweight,Submission,2,F143,$50.00 ,Submission; R2
+1273,473,11/20/2022,Event 473,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F085,8,6,Tiger Gym,Coach B,F151,11,1,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F085,$75.00 ,Decision - Majority; R5
+1274,474,12/11/2022,Event 474,Kigali Arena,Kigali,East Africa MMA,F030,9,3,Lion Gym,Coach A,F183,12,2,Shark Gym,Coach D,Middleweight,KO/TKO,2,F030,$50.00 ,KO/TKO; R2
+1275,475,1/15/2023,Event 475,BK Arena,Gasabo,Kigali Fight Night,F188,12,0,Eagle Gym,Coach C,F095,10,3,Tiger Gym,Coach B,Featherweight,Submission,3,F188,$25.00 ,Submission; R3
+1276,476,2/26/2023,Event 476,Kigali Convention Centre,Kicukiro,East Africa MMA,F051,11,2,Shark Gym,Coach D,F117,12,1,Lion Gym,Coach A,Welterweight,KO/TKO,4,F051,$50.00 ,KO/TKO; R4
+1277,477,3/19/2023,Event 477,Kigali Arena,Gasabo,Kigali Fight Night,F151,11,1,Tiger Gym,Coach B,F108,11,1,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F108,$75.00 ,Decision - Split; R5
+1278,478,4/30/2023,Event 478,BK Arena,Nyarugenge,East Africa MMA,F073,9,3,Lion Gym,Coach A,F170,8,6,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F073,$25.00 ,Decision - Unanimous; R5
+1279,479,5/21/2023,Event 479,Kigali Convention Centre,KIGALI,Kigali Fight Night,F179,12,0,Eagle Gym,Coach C,F042,15,0,Tiger Gym,Coach B,Heavyweight,Submission,3,F179,$50.00 ,Submission; R3
+1280,480,6/11/2023,Event 480,Kigali Arena,Kigali City,East Africa MMA,F108,11,1,Shark Gym,Coach D,F094,13,1,Lion Gym,Coach A,Middleweight,KO/TKO,2,F108,$75.00 ,KO/TKO; R2
+1281,481,7/30/2023,Event 481,BK Arena,Gasabo,Kigali Fight Night,F026,12,2,Tiger Gym,Coach B,F128,10,5,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F026,$50.00 ,Decision - Majority; R5
+1282,482,8/20/2023,Event 482,Kigali Convention Centre,Kicukiro,East Africa MMA,F139,12,1,Lion Gym,Coach A,F050,12,3,Shark Gym,Coach D,Welterweight,Submission,4,F139,$25.00 ,Submission; R4
+1283,483,9/17/2023,Event 483,Kigali Arena,Nyarugenge,Kigali Fight Night,F085,8,6,Eagle Gym,Coach C,F165,13,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F085,$50.00 ,KO/TKO; R3
+1284,484,10/8/2023,Event 484,BK Arena,Kigali,East Africa MMA,F161,9,4,Shark Gym,Coach D,F078,9,4,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F078,$75.00 ,Decision - Split; R5
+1285,485,11/12/2023,Event 485,Kigali Convention Centre,Gasabo,Kigali Fight Night,F037,7,6,Lion Gym,Coach A,F110,6,6,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F037,$50.00 ,Decision - Unanimous; R5
+1286,486,12/3/2023,Event 486,Kigali Arena,KICUKIRO,East Africa MMA,F173,12,0,Tiger Gym,Coach B,F038,9,4,Shark Gym,Coach D,Featherweight,KO/TKO,1,F173,$25.00 ,KO/TKO; R1
+1287,487,1/21/2024,Event 487,BK Arena,Nyarugenge,Kigali Fight Night,F068,10,4,Eagle Gym,Coach C,F145,9,1,Lion Gym,Coach A,Welterweight,Submission,3,F068,$50.00 ,Submission; R3
+1288,488,2/18/2024,Event 488,Kigali Convention Centre,Kigali,Kigali Fight Night,F132,11,2,Shark Gym,Coach D,F060,9,2,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F132,$75.00 ,Decision - Majority; R5
+1289,489,3/10/2024,Event 489,Kigali Arena,Gasabo,Kigali Fight Night,F100,9,3,Lion Gym,Coach A,F187,12,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F100,$50.00 ,KO/TKO; R2
+1290,490,4/14/2024,Event 490,BK Arena,Kigali City,East Africa MMA,F156,8,6,Tiger Gym,Coach B,F083,8,4,Shark Gym,Coach D,Middleweight,Submission,4,F156,$25.00 ,Submission; R4
+1291,491,5/26/2024,Event 491,Kigali Convention Centre,Gasabo,Kigali Fight Night,F045,9,3,Eagle Gym,Coach C,F121,9,3,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F045,$50.00 ,Decision - Unanimous; R5
+1292,492,6/16/2024,Event 492,Kigali Arena,KICUKIRO,East Africa MMA,F169,9,2,Shark Gym,Coach D,F097,9,1,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F169,$75.00 ,KO/TKO; R3
+1293,493,7/21/2024,Event 493,BK Arena,Nyarugenge,Kigali Fight Night,F080,9,3,Lion Gym,Coach A,F136,12,2,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F136,$50.00 ,Decision - Split; R5
+1294,494,4/17/2022,Event 494,Kigali Convention Centre,Kigali,Kigali Fight Night,F152,8,4,Tiger Gym,Coach B,F029,12,2,Shark Gym,Coach D,Lightweight,Submission,2,F152,$25.00 ,Submission; R2
+1295,495,5/29/2022,Event 495,Kigali Arena,Gasabo,East Africa MMA,F111,11,1,Eagle Gym,Coach C,F072,9,5,Lion Gym,Coach A,Middleweight,KO/TKO,4,F111,$50.00 ,KO/TKO; R4
+1296,496,6/19/2022,Event 496,BK Arena,Kicukiro,Kigali Fight Night,F022,11,1,Shark Gym,Coach D,F158,12,1,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F022,$75.00 ,Decision - Unanimous; R5
+1297,497,7/24/2022,Event 497,Kigali Convention Centre,Nyarugenge,East Africa MMA,F183,12,2,Lion Gym,Coach A,F049,7,6,Eagle Gym,Coach C,Featherweight,Submission,3,F183,$50.00 ,Submission; R3
+1298,498,8/14/2022,Event 498,Kigali Arena,Kigali,East Africa MMA,F056,10,2,Tiger Gym,Coach B,F140,7,4,Shark Gym,Coach D,Welterweight,KO/TKO,2,F056,$25.00 ,KO/TKO; R2
+1299,499,9/25/2022,Event 499,BK Arena,Gasabo,East Africa MMA,F129,11,3,Eagle Gym,Coach C,F075,9,4,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F129,$50.00 ,Decision - Majority; R5
+1300,500,10/16/2022,Event 500,Kigali Convention Centre,Kigali City,Kigali Fight Night,F094,13,1,Shark Gym,Coach D,F167,7,7,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F167,$75.00 ,Decision - Split; R5
+1301,501,11/27/2022,Event 501,Kigali Arena,KIGALI,East Africa MMA,F040,7,5,Lion Gym,Coach A,F123,10,1,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F040,$50.00 ,KO/TKO; R1
+1302,502,12/18/2022,Event 502,BK Arena,Kicukiro,Kigali Fight Night,F175,7,5,Tiger Gym,Coach B,F062,8,4,Shark Gym,Coach D,Featherweight,Submission,4,F175,$25.00 ,Submission; R4
+1303,503,1/8/2023,Event 503,Kigali Convention Centre,Gasabo,East Africa MMA,F077,7,5,Eagle Gym,Coach C,F151,11,1,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F077,$50.00 ,Decision - Unanimous; R5
+1304,504,2/19/2023,Event 504,Kigali Arena,Nyarugenge,Kigali Fight Night,F163,13,0,Shark Gym,Coach D,F035,12,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F163,$75.00 ,KO/TKO; R3
+1305,505,3/12/2023,Event 505,BK Arena,Kigali,Kigali Fight Night,F104,12,1,Lion Gym,Coach A,F185,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F104,$50.00 ,Submission; R2
+1306,506,4/23/2023,Event 506,Kigali Convention Centre,Gasabo,East Africa MMA,F019,10,4,Tiger Gym,Coach B,F108,11,1,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F019,$25.00 ,Decision - Majority; R5
+1307,507,5/14/2023,Event 507,Kigali Arena,Kicukiro,Kigali Fight Night,F141,13,1,Eagle Gym,Coach C,F071,10,5,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F071,$50.00 ,Decision - Split; R5
+1308,508,6/25/2023,Event 508,BK Arena,Gasabo,East Africa MMA,F179,12,0,Shark Gym,Coach D,F087,10,3,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F179,$75.00 ,KO/TKO; R4
+1309,509,7/16/2023,Event 509,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F027,12,2,Lion Gym,Coach A,F159,9,4,Eagle Gym,Coach C,Welterweight,Submission,3,F027,$50.00 ,Submission; R3
+1310,510,8/27/2023,Event 510,Kigali Arena,KIGALI,Kigali Fight Night,F189,12,2,Tiger Gym,Coach B,F050,12,3,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F189,$25.00 ,Decision - Unanimous; R5
+1311,511,9/10/2023,Event 511,BK Arena,Kigali City,Kigali Fight Night,F114,10,4,Eagle Gym,Coach C,F093,10,2,Lion Gym,Coach A,Middleweight,KO/TKO,2,F114,$50.00 ,KO/TKO; R2
+1312,512,10/29/2023,Event 512,Kigali Convention Centre,Gasabo,East Africa MMA,F065,11,2,Shark Gym,Coach D,F124,12,2,Tiger Gym,Coach B,Featherweight,Submission,4,F065,$75.00 ,Submission; R4
+1313,513,11/19/2023,Event 513,Kigali Arena,Kicukiro,Kigali Fight Night,F146,7,6,Lion Gym,Coach A,F079,12,2,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F146,$50.00 ,Decision - Majority; R5
+1314,514,12/17/2023,Event 514,BK Arena,Nyarugenge,East Africa MMA,F021,10,2,Tiger Gym,Coach B,F032,9,3,Shark Gym,Coach D,Lightweight,KO/TKO,1,F021,$25.00 ,KO/TKO; R1
+1315,515,1/28/2024,Event 515,Kigali Convention Centre,Gasabo,Kigali Fight Night,F134,8,4,Eagle Gym,Coach C,F096,12,1,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F096,$50.00 ,Decision - Split; R5
+1316,516,2/11/2024,Event 516,Kigali Arena,Kigali City,East Africa MMA,F043,11,3,Lion Gym,Coach A,F118,12,3,Eagle Gym,Coach C,Welterweight,Decision - Unanimous,5,F043,$50.00 ,Decision - Unanimous; R5
+1317,517,3/24/2024,Event 517,BK Arena,KIGALI,Kigali Fight Night,F169,9,2,Shark Gym,Coach D,F042,15,0,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F169,$75.00 ,KO/TKO; R3
+1318,518,4/21/2024,Event 518,Kigali Convention Centre,Gasabo,East Africa MMA,F101,8,4,Eagle Gym,Coach C,F058,10,3,Lion Gym,Coach A,Featherweight,Submission,4,F101,$25.00 ,Submission; R4
+1319,519,5/12/2024,Event 519,Kigali Arena,Kicukiro,Kigali Fight Night,F015,8,3,Tiger Gym,Coach B,F135,11,3,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F135,$50.00 ,Decision - Split; R5
+1320,520,6/9/2024,Event 520,BK Arena,Nyarugenge,East Africa MMA,F179,12,0,Lion Gym,Coach A,F051,11,2,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F179,$75.00 ,KO/TKO; R1
+1321,521,7/14/2024,Event 521,Kigali Convention Centre,Kigali,Kigali Fight Night,F068,10,4,Eagle Gym,Coach C,F119,14,1,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F068,$25.00 ,Decision - Unanimous; R5
+1322,522,4/24/2022,Event 522,Kigali Arena,Gasabo,East Africa MMA,F146,7,6,Shark Gym,Coach D,F074,10,5,Lion Gym,Coach A,Welterweight,Submission,2,F146,$50.00 ,Submission; R2
+1323,523,5/15/2022,Event 523,BK Arena,Kicukiro,Kigali Fight Night,F088,12,2,Tiger Gym,Coach B,F154,10,2,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F088,$75.00 ,Decision - Majority; R5
+1324,524,6/26/2022,Event 524,Kigali Convention Centre,Nyarugenge,East Africa MMA,F033,11,3,Lion Gym,Coach A,F186,12,2,Shark Gym,Coach D,Middleweight,KO/TKO,2,F033,$50.00 ,KO/TKO; R2
+1325,525,7/17/2022,Event 525,Kigali Arena,Kigali,East Africa MMA,F191,12,0,Eagle Gym,Coach C,F098,12,1,Tiger Gym,Coach B,Featherweight,Submission,3,F191,$25.00 ,Submission; R3
+1326,526,8/21/2022,Event 526,BK Arena,Gasabo,East Africa MMA,F054,8,3,Shark Gym,Coach D,F120,10,1,Lion Gym,Coach A,Welterweight,KO/TKO,4,F054,$50.00 ,KO/TKO; R4
+1327,527,9/11/2022,Event 527,Kigali Convention Centre,KIGALI,Kigali Fight Night,F154,10,2,Tiger Gym,Coach B,F111,11,1,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F111,$75.00 ,Decision - Split; R5
+1328,528,10/30/2022,Event 528,Kigali Arena,Kicukiro,East Africa MMA,F076,10,1,Lion Gym,Coach A,F173,12,0,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F076,$25.00 ,Decision - Unanimous; R5
+1329,529,11/13/2022,Event 529,BK Arena,Nyarugenge,East Africa MMA,F182,12,0,Eagle Gym,Coach C,F045,9,3,Tiger Gym,Coach B,Heavyweight,Submission,3,F182,$50.00 ,Submission; R3
+1330,530,12/18/2022,Event 530,Kigali Convention Centre,Gasabo,East Africa MMA,F111,11,1,Shark Gym,Coach D,F097,9,1,Lion Gym,Coach A,Middleweight,KO/TKO,2,F111,$75.00 ,KO/TKO; R2
+1331,531,1/22/2023,Event 531,Kigali Arena,Kigali City,Kigali Fight Night,F029,12,2,Tiger Gym,Coach B,F131,9,2,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F029,$50.00 ,Decision - Majority; R5
+1332,532,2/12/2023,Event 532,BK Arena,Gasabo,East Africa MMA,F142,7,5,Lion Gym,Coach A,F053,10,2,Shark Gym,Coach D,Welterweight,Submission,4,F142,$25.00 ,Submission; R4
+1333,533,3/26/2023,Event 533,Kigali Convention Centre,Kicukiro,East Africa MMA,F088,12,2,Eagle Gym,Coach C,F168,13,3,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F088,$50.00 ,KO/TKO; R3
+1334,534,4/16/2023,Event 534,Kigali Arena,Nyarugenge,East Africa MMA,F164,10,3,Shark Gym,Coach D,F081,9,3,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F081,$75.00 ,Decision - Split; R5
+1335,535,5/28/2023,Event 535,BK Arena,Kigali,Kigali Fight Night,F040,7,5,Lion Gym,Coach A,F113,10,4,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F040,$50.00 ,Decision - Unanimous; R5
+1336,536,6/18/2023,Event 536,Kigali Convention Centre,Gasabo,East Africa MMA,F176,12,0,Tiger Gym,Coach B,F041,11,1,Shark Gym,Coach D,Featherweight,KO/TKO,1,F176,$25.00 ,KO/TKO; R1
+1337,537,7/23/2023,Event 537,Kigali Arena,KIGALI,Kigali Fight Night,F071,10,5,Eagle Gym,Coach C,F148,10,2,Lion Gym,Coach A,Welterweight,Submission,3,F071,$50.00 ,Submission; R3
+1338,538,8/13/2023,Event 538,BK Arena,Kicukiro,East Africa MMA,F135,11,3,Shark Gym,Coach D,F063,9,2,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F135,$75.00 ,Decision - Majority; R5
+1339,539,9/24/2023,Event 539,Kigali Convention Centre,Nyarugenge,East Africa MMA,F103,10,4,Lion Gym,Coach A,F190,12,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F103,$50.00 ,KO/TKO; R2
+1340,540,10/15/2023,Event 540,Kigali Arena,Gasabo,East Africa MMA,F159,9,4,Tiger Gym,Coach B,F086,8,4,Shark Gym,Coach D,Middleweight,Submission,4,F159,$25.00 ,Submission; R4
+1341,541,11/26/2023,Event 541,BK Arena,Kigali City,East Africa MMA,F048,9,3,Eagle Gym,Coach C,F124,12,2,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F048,$50.00 ,Decision - Unanimous; R5
+1342,542,12/10/2023,Event 542,Kigali Convention Centre,Kigali,Kigali Fight Night,F172,11,2,Shark Gym,Coach D,F100,9,3,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F172,$75.00 ,KO/TKO; R3
+1343,543,1/14/2024,Event 543,Kigali Arena,Kicukiro,East Africa MMA,F083,8,4,Lion Gym,Coach A,F139,12,1,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F139,$50.00 ,Decision - Split; R5
+1344,544,2/25/2024,Event 544,BK Arena,Nyarugenge,East Africa MMA,F155,10,4,Tiger Gym,Coach B,F032,9,3,Shark Gym,Coach D,Lightweight,Submission,2,F155,$25.00 ,Submission; R2
+1345,545,3/17/2024,Event 545,Kigali Convention Centre,Gasabo,Kigali Fight Night,F114,10,4,Eagle Gym,Coach C,F075,9,4,Lion Gym,Coach A,Middleweight,KO/TKO,4,F114,$50.00 ,KO/TKO; R4
+1346,546,4/28/2024,Event 546,Kigali Arena,KIGALI,East Africa MMA,F025,9,3,Shark Gym,Coach D,F161,9,4,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F025,$75.00 ,Decision - Unanimous; R5
+1347,547,5/19/2024,Event 547,BK Arena,Gasabo,Kigali Fight Night,F186,12,2,Lion Gym,Coach A,F052,9,2,Eagle Gym,Coach C,Featherweight,Submission,3,F186,$50.00 ,Submission; R3
+1348,548,6/23/2024,Event 548,Kigali Convention Centre,Kicukiro,East Africa MMA,F059,9,4,Tiger Gym,Coach B,F143,11,2,Shark Gym,Coach D,Welterweight,KO/TKO,2,F059,$25.00 ,KO/TKO; R2
+1349,549,7/28/2024,Event 549,Kigali Arena,Nyarugenge,East Africa MMA,F132,11,2,Eagle Gym,Coach C,F078,9,4,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F132,$50.00 ,Decision - Majority; R5
+1350,550,4/10/2022,Event 550,BK Arena,Kigali,Kigali Fight Night,F097,9,1,Shark Gym,Coach D,F170,8,6,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F170,$75.00 ,Decision - Split; R5
+1351,551,5/8/2022,Event 551,Kigali Convention Centre,Gasabo,East Africa MMA,F043,11,3,Lion Gym,Coach A,F126,9,4,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F043,$50.00 ,KO/TKO; R1
+1352,552,6/12/2022,Event 552,Kigali Arena,Kicukiro,East Africa MMA,F178,12,2,Tiger Gym,Coach B,F065,11,2,Shark Gym,Coach D,Featherweight,Submission,4,F178,$25.00 ,Submission; R4
+1353,553,7/31/2022,Event 553,BK Arena,Nyarugenge,East Africa MMA,F080,9,3,Eagle Gym,Coach C,F154,10,2,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F080,$50.00 ,Decision - Unanimous; R5
+1354,554,8/14/2022,Event 554,Kigali Convention Centre,Kigali,East Africa MMA,F166,8,4,Shark Gym,Coach D,F038,9,4,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F166,$75.00 ,KO/TKO; R3
+1355,555,9/25/2022,Event 555,Kigali Arena,Gasabo,Kigali Fight Night,F107,12,1,Lion Gym,Coach A,F188,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F107,$50.00 ,Submission; R2
+1356,556,10/9/2022,Event 556,BK Arena,KIGALI,East Africa MMA,F022,11,1,Tiger Gym,Coach B,F111,11,1,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F022,$25.00 ,Decision - Majority; R5
+1357,557,11/27/2022,Event 557,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F144,10,1,Eagle Gym,Coach C,F074,10,5,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F074,$50.00 ,Decision - Split; R5
+1358,558,12/11/2022,Event 558,Kigali Arena,Nyarugenge,East Africa MMA,F182,12,0,Shark Gym,Coach D,F090,13,0,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F182,$75.00 ,KO/TKO; R4
+1359,559,1/29/2023,Event 559,BK Arena,Kigali,Kigali Fight Night,F030,9,3,Lion Gym,Coach A,F162,13,2,Eagle Gym,Coach C,Welterweight,Submission,3,F030,$50.00 ,Submission; R3
+1360,560,2/19/2023,Event 560,Kigali Convention Centre,Gasabo,East Africa MMA,F192,12,2,Tiger Gym,Coach B,F053,10,2,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F192,$25.00 ,Decision - Unanimous; R5
+1361,561,3/19/2023,Event 561,Kigali Arena,Kigali City,East Africa MMA,F117,12,1,Eagle Gym,Coach C,F096,12,1,Lion Gym,Coach A,Middleweight,KO/TKO,2,F117,$50.00 ,KO/TKO; R2
+1362,562,4/9/2023,Event 562,BK Arena,Gasabo,East Africa MMA,F068,10,4,Shark Gym,Coach D,F127,12,2,Tiger Gym,Coach B,Featherweight,Submission,4,F068,$75.00 ,Submission; R4
+1363,563,5/21/2023,Event 563,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F149,12,1,Lion Gym,Coach A,F082,8,6,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F149,$50.00 ,Decision - Majority; R5
+1364,564,6/11/2023,Event 564,Kigali Arena,Nyarugenge,East Africa MMA,F024,9,2,Tiger Gym,Coach B,F035,12,2,Shark Gym,Coach D,Lightweight,KO/TKO,1,F024,$25.00 ,KO/TKO; R1
+1365,565,7/9/2023,Event 565,BK Arena,Kigali,East Africa MMA,F137,11,2,Eagle Gym,Coach C,F099,10,1,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F099,$50.00 ,Decision - Split; R5
+1366,566,7/30/2023,Event 566,Kigali Convention Centre,Gasabo,East Africa MMA,F046,9,1,Lion Gym,Coach A,F121,9,3,Eagle Gym,Coach C,Welterweight,Decision - Unanimous,5,F046,$50.00 ,Decision - Unanimous; R5
+1367,567,8/20/2023,Event 567,Kigali Arena,Kicukiro,Kigali Fight Night,F172,11,2,Shark Gym,Coach D,F045,9,3,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F172,$75.00 ,KO/TKO; R3
+1368,568,9/10/2023,Event 568,BK Arena,Nyarugenge,East Africa MMA,F104,12,1,Eagle Gym,Coach C,F061,10,2,Lion Gym,Coach A,Featherweight,Submission,4,F104,$25.00 ,Submission; R4
+1369,569,10/22/2023,Event 569,Kigali Convention Centre,KIGALI,Kigali Fight Night,F018,9,2,Tiger Gym,Coach B,F138,8,5,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F138,$50.00 ,Decision - Split; R5
+1370,570,11/19/2023,Event 570,Kigali Arena,Kigali City,East Africa MMA,F182,12,0,Lion Gym,Coach A,F054,8,3,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F182,$75.00 ,KO/TKO; R1
+1371,571,12/17/2023,Event 571,BK Arena,Gasabo,Kigali Fight Night,F071,10,5,Eagle Gym,Coach C,F122,13,2,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F071,$25.00 ,Decision - Unanimous; R5
+1372,572,1/7/2024,Event 572,Kigali Convention Centre,Kicukiro,East Africa MMA,F149,12,1,Shark Gym,Coach D,F077,7,5,Lion Gym,Coach A,Welterweight,Submission,2,F149,$50.00 ,Submission; R2
+1373,573,2/11/2024,Event 573,Kigali Arena,Nyarugenge,Kigali Fight Night,F091,11,2,Tiger Gym,Coach B,F157,8,2,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F091,$75.00 ,Decision - Majority; R5
+1374,574,3/24/2024,Event 574,BK Arena,Kigali,East Africa MMA,F036,8,4,Lion Gym,Coach A,F189,12,2,Shark Gym,Coach D,Middleweight,KO/TKO,2,F036,$50.00 ,KO/TKO; R2
+1375,575,4/14/2024,Event 575,Kigali Convention Centre,Gasabo,Kigali Fight Night,F194,12,0,Eagle Gym,Coach C,F101,8,4,Tiger Gym,Coach B,Featherweight,Submission,3,F194,$25.00 ,Submission; R3
+1376,576,5/26/2024,Event 576,Kigali Arena,KIGALI,East Africa MMA,F057,9,4,Shark Gym,Coach D,F123,10,1,Lion Gym,Coach A,Welterweight,KO/TKO,4,F057,$50.00 ,KO/TKO; R4
+1377,577,6/16/2024,Event 577,BK Arena,Kicukiro,Kigali Fight Night,F157,8,2,Tiger Gym,Coach B,F114,10,4,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F114,$75.00 ,Decision - Split; R5
+1378,578,7/21/2024,Event 578,Kigali Convention Centre,Nyarugenge,East Africa MMA,F079,12,2,Lion Gym,Coach A,F176,12,0,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F079,$25.00 ,Decision - Unanimous; R5
+1379,579,4/3/2022,Event 579,Kigali Arena,Gasabo,Kigali Fight Night,F185,12,0,Eagle Gym,Coach C,F048,9,3,Tiger Gym,Coach B,Heavyweight,Submission,3,F185,$50.00 ,Submission; R3
+1380,580,5/22/2022,Event 580,BK Arena,Kigali,East Africa MMA,F114,10,4,Shark Gym,Coach D,F100,9,3,Lion Gym,Coach A,Middleweight,KO/TKO,2,F114,$75.00 ,KO/TKO; R2
+1381,581,6/19/2022,Event 581,Kigali Convention Centre,Kigali City,Kigali Fight Night,F032,9,3,Tiger Gym,Coach B,F134,8,4,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F032,$50.00 ,Decision - Majority; R5
+1382,582,7/10/2022,Event 582,Kigali Arena,Kicukiro,East Africa MMA,F145,9,1,Lion Gym,Coach A,F056,10,2,Shark Gym,Coach D,Welterweight,Submission,4,F145,$25.00 ,Submission; R4
+1383,583,8/28/2022,Event 583,BK Arena,Gasabo,East Africa MMA,F091,11,2,Eagle Gym,Coach C,F171,13,3,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F091,$50.00 ,KO/TKO; R3
+1384,584,9/18/2022,Event 584,Kigali Convention Centre,Nyarugenge,East Africa MMA,F167,7,7,Shark Gym,Coach D,F084,10,1,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F084,$75.00 ,Decision - Split; R5
+1385,585,10/9/2022,Event 585,Kigali Arena,KIGALI,Kigali Fight Night,F043,11,3,Lion Gym,Coach A,F116,11,2,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F043,$50.00 ,Decision - Unanimous; R5
+1386,586,11/27/2022,Event 586,BK Arena,Gasabo,East Africa MMA,F179,12,0,Tiger Gym,Coach B,F044,11,2,Shark Gym,Coach D,Featherweight,KO/TKO,1,F179,$25.00 ,KO/TKO; R1
+1387,587,12/4/2022,Event 587,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F074,10,5,Eagle Gym,Coach C,F151,11,1,Lion Gym,Coach A,Welterweight,Submission,3,F074,$50.00 ,Submission; R3
+1388,588,1/15/2023,Event 588,Kigali Arena,Nyarugenge,East Africa MMA,F138,8,5,Shark Gym,Coach D,F066,8,5,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F138,$75.00 ,Decision - Majority; R5
+1389,589,2/26/2023,Event 589,BK Arena,Kigali,East Africa MMA,F106,12,0,Lion Gym,Coach A,F193,12,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F106,$50.00 ,KO/TKO; R2
+1390,590,3/12/2023,Event 590,Kigali Convention Centre,Gasabo,East Africa MMA,F162,13,2,Tiger Gym,Coach B,F089,10,3,Shark Gym,Coach D,Middleweight,Submission,4,F162,$25.00 ,Submission; R4
+1391,591,4/23/2023,Event 591,Kigali Arena,Kigali City,East Africa MMA,F051,11,2,Eagle Gym,Coach C,F127,12,2,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F051,$50.00 ,Decision - Unanimous; R5
+1392,592,5/14/2023,Event 592,BK Arena,KICUKIRO,Kigali Fight Night,F175,7,5,Shark Gym,Coach D,F103,10,4,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F175,$75.00 ,KO/TKO; R3
+1393,593,6/25/2023,Event 593,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F086,8,4,Lion Gym,Coach A,F142,7,5,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F142,$50.00 ,Decision - Split; R5
+1394,594,7/16/2023,Event 594,Kigali Arena,Gasabo,Kigali Fight Night,F158,12,1,Tiger Gym,Coach B,F035,12,2,Shark Gym,Coach D,Lightweight,Submission,2,F158,$25.00 ,Submission; R2
+1395,595,8/27/2023,Event 595,BK Arena,Kigali,Kigali Fight Night,F117,12,1,Eagle Gym,Coach C,F078,9,4,Lion Gym,Coach A,Middleweight,KO/TKO,4,F117,$50.00 ,KO/TKO; R4
+1396,596,9/17/2023,Event 596,Kigali Convention Centre,Kigali,East Africa MMA,F028,9,4,Shark Gym,Coach D,F164,10,3,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F028,$75.00 ,Decision - Unanimous; R5
+1397,597,10/8/2023,Event 597,Kigali Arena,Kicukiro,Kigali Fight Night,F189,12,2,Lion Gym,Coach A,F055,9,4,Eagle Gym,Coach C,Featherweight,Submission,3,F189,$50.00 ,Submission; R3
+1398,598,11/12/2023,Event 598,BK Arena,Gasabo,East Africa MMA,F062,8,4,Tiger Gym,Coach B,F146,7,6,Shark Gym,Coach D,Welterweight,KO/TKO,2,F062,$25.00 ,KO/TKO; R2
+1399,599,12/3/2023,Event 599,Kigali Convention Centre,Nyarugenge,East Africa MMA,F135,11,3,Eagle Gym,Coach C,F081,9,3,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F135,$50.00 ,Decision - Majority; R5
+1400,600,1/21/2024,Event 600,Kigali Arena,KIGALI,Kigali Fight Night,F100,9,3,Shark Gym,Coach D,F173,12,0,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F173,$75.00 ,Decision - Split; R5
+1401,601,2/18/2024,Event 601,BK Arena,Kigali City,East Africa MMA,F046,9,1,Lion Gym,Coach A,F129,11,3,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F046,$50.00 ,KO/TKO; R1
+1402,602,3/10/2024,Event 602,Kigali Convention Centre,Gasabo,Kigali Fight Night,F181,12,2,Tiger Gym,Coach B,F068,10,4,Shark Gym,Coach D,Featherweight,Submission,4,F181,$25.00 ,Submission; R4
+1403,603,4/21/2024,Event 603,Kigali Arena,Kicukiro,East Africa MMA,F083,8,4,Eagle Gym,Coach C,F157,8,2,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F083,$50.00 ,Decision - Unanimous; R5
+1404,604,5/12/2024,Event 604,BK Arena,Nyarugenge,East Africa MMA,F169,9,2,Shark Gym,Coach D,F041,11,1,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F169,$75.00 ,KO/TKO; R3
+1405,605,6/9/2024,Event 605,Kigali Convention Centre,Kigali,Kigali Fight Night,F110,6,6,Lion Gym,Coach A,F191,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F110,$50.00 ,Submission; R2
+1406,606,7/14/2024,Event 606,Kigali Arena,Gasabo,East Africa MMA,F025,9,3,Tiger Gym,Coach B,F114,10,4,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F025,$25.00 ,Decision - Majority; R5
+1407,607,4/17/2022,Event 607,BK Arena,KICUKIRO,Kigali Fight Night,F147,12,1,Eagle Gym,Coach C,F077,7,5,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F077,$50.00 ,Decision - Split; R5
+1408,608,5/29/2022,Event 608,Kigali Convention Centre,Gasabo,East Africa MMA,F185,12,0,Shark Gym,Coach D,F093,10,2,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F185,$75.00 ,KO/TKO; R4
+1409,609,6/12/2022,Event 609,Kigali Arena,Nyarugenge,Kigali Fight Night,F033,11,3,Lion Gym,Coach A,F165,13,2,Eagle Gym,Coach C,Welterweight,Submission,3,F033,$50.00 ,Submission; R3
+1410,610,7/24/2022,Event 610,BK Arena,Kigali,East Africa MMA,F195,12,2,Tiger Gym,Coach B,F056,10,2,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F195,$25.00 ,Decision - Unanimous; R5
+1411,611,8/21/2022,Event 611,Kigali Convention Centre,Kigali City,East Africa MMA,F120,10,1,Eagle Gym,Coach C,F099,10,1,Lion Gym,Coach A,Middleweight,KO/TKO,2,F120,$50.00 ,KO/TKO; R2
+1412,612,9/11/2022,Event 612,BK Arena,Gasabo,East Africa MMA,F071,10,5,Shark Gym,Coach D,F130,8,5,Tiger Gym,Coach B,Featherweight,Submission,4,F071,$75.00 ,Submission; R4
+1413,613,10/16/2022,Event 613,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F152,8,4,Lion Gym,Coach A,F085,8,6,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F152,$50.00 ,Decision - Majority; R5
+1414,614,11/20/2022,Event 614,Kigali Arena,Nyarugenge,East Africa MMA,F027,12,2,Tiger Gym,Coach B,F038,9,4,Shark Gym,Coach D,Lightweight,KO/TKO,1,F027,$25.00 ,KO/TKO; R1
+1415,615,12/18/2022,Event 615,BK Arena,Kigali,Kigali Fight Night,F140,7,4,Eagle Gym,Coach C,F102,10,2,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F102,$50.00 ,Decision - Split; R5
+1416,616,1/8/2023,Event 616,Kigali Convention Centre,Gasabo,East Africa MMA,F049,7,6,Lion Gym,Coach A,F124,12,2,Eagle Gym,Coach C,Welterweight,Decision - Unanimous,5,F049,$50.00 ,Decision - Unanimous; R5
+1417,617,2/19/2023,Event 617,Kigali Arena,Kicukiro,Kigali Fight Night,F175,7,5,Shark Gym,Coach D,F048,9,3,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F175,$75.00 ,KO/TKO; R3
+1418,618,3/19/2023,Event 618,BK Arena,Nyarugenge,East Africa MMA,F107,12,1,Eagle Gym,Coach C,F064,6,3,Lion Gym,Coach A,Featherweight,Submission,4,F107,$25.00 ,Submission; R4
+1419,619,4/9/2023,Event 619,Kigali Convention Centre,KIGALI,Kigali Fight Night,F021,10,2,Tiger Gym,Coach B,F141,13,1,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F141,$50.00 ,Decision - Split; R5
+1420,620,5/28/2023,Event 620,Kigali Arena,Kigali City,East Africa MMA,F185,12,0,Lion Gym,Coach A,F057,9,4,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F185,$75.00 ,KO/TKO; R1
+1421,621,6/18/2023,Event 621,BK Arena,Gasabo,Kigali Fight Night,F074,10,5,Eagle Gym,Coach C,F125,10,3,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F074,$25.00 ,Decision - Unanimous; R5
+1422,622,7/9/2023,Event 622,Kigali Convention Centre,Kicukiro,East Africa MMA,F152,8,4,Shark Gym,Coach D,F080,9,3,Lion Gym,Coach A,Welterweight,Submission,2,F152,$50.00 ,Submission; R2
+1423,623,8/27/2023,Event 623,Kigali Arena,Nyarugenge,Kigali Fight Night,F094,13,1,Tiger Gym,Coach B,F160,13,0,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F094,$75.00 ,Decision - Majority; R5
+1424,624,9/24/2023,Event 624,BK Arena,Kigali,East Africa MMA,F039,8,5,Lion Gym,Coach A,F192,12,2,Shark Gym,Coach D,Middleweight,KO/TKO,2,F039,$50.00 ,KO/TKO; R2
+1425,625,10/15/2023,Event 625,Kigali Convention Centre,Gasabo,Kigali Fight Night,F197,12,0,Eagle Gym,Coach C,F104,12,1,Tiger Gym,Coach B,Featherweight,Submission,3,F197,$25.00 ,Submission; R3
+1426,626,11/26/2023,Event 626,Kigali Arena,KIGALI,East Africa MMA,F060,9,2,Shark Gym,Coach D,F126,9,4,Lion Gym,Coach A,Welterweight,KO/TKO,4,F060,$50.00 ,KO/TKO; R4
+1427,627,12/10/2023,Event 627,BK Arena,Kicukiro,Kigali Fight Night,F160,13,0,Tiger Gym,Coach B,F117,12,1,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F117,$75.00 ,Decision - Split; R5
+1428,628,1/28/2024,Event 628,Kigali Convention Centre,Nyarugenge,East Africa MMA,F082,8,6,Lion Gym,Coach A,F179,12,0,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F082,$25.00 ,Decision - Unanimous; R5
+1429,629,2/11/2024,Event 629,Kigali Arena,Gasabo,Kigali Fight Night,F188,12,0,Eagle Gym,Coach C,F051,11,2,Tiger Gym,Coach B,Heavyweight,Submission,3,F188,$50.00 ,Submission; R3
+1430,630,3/24/2024,Event 630,BK Arena,Kigali,East Africa MMA,F117,12,1,Shark Gym,Coach D,F103,10,4,Lion Gym,Coach A,Middleweight,KO/TKO,2,F117,$75.00 ,KO/TKO; R2
+1431,631,4/28/2024,Event 631,Kigali Convention Centre,Kigali City,Kigali Fight Night,F035,12,2,Tiger Gym,Coach B,F137,11,2,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F035,$50.00 ,Decision - Majority; R5
+1432,632,5/12/2024,Event 632,Kigali Arena,Kicukiro,East Africa MMA,F148,10,2,Lion Gym,Coach A,F059,9,4,Shark Gym,Coach D,Welterweight,Submission,4,F148,$25.00 ,Submission; R4
+1433,633,6/23/2024,Event 633,BK Arena,Gasabo,East Africa MMA,F094,13,1,Eagle Gym,Coach C,F174,8,5,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F094,$50.00 ,KO/TKO; R3
+1434,634,7/28/2024,Event 634,Kigali Convention Centre,Nyarugenge,East Africa MMA,F170,8,6,Shark Gym,Coach D,F087,10,3,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F087,$75.00 ,Decision - Split; R5
+1435,635,4/24/2022,Event 635,Kigali Arena,Kigali,Kigali Fight Night,F046,9,1,Lion Gym,Coach A,F119,14,1,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F046,$50.00 ,Decision - Unanimous; R5
+1436,636,5/15/2022,Event 636,BK Arena,Gasabo,East Africa MMA,F182,12,0,Tiger Gym,Coach B,F047,10,5,Shark Gym,Coach D,Featherweight,KO/TKO,1,F182,$25.00 ,KO/TKO; R1
+1437,637,6/5/2022,Event 637,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F077,7,5,Eagle Gym,Coach C,F154,10,2,Lion Gym,Coach A,Welterweight,Submission,3,F077,$50.00 ,Submission; R3
+1438,638,7/31/2022,Event 638,Kigali Arena,Nyarugenge,East Africa MMA,F141,13,1,Shark Gym,Coach D,F069,8,5,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F141,$75.00 ,Decision - Majority; R5
+1439,639,8/14/2022,Event 639,BK Arena,KIGALI,Kigali Fight Night,F109,8,5,Lion Gym,Coach A,F196,12,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F109,$50.00 ,KO/TKO; R2
+1440,640,9/25/2022,Event 640,Kigali Convention Centre,Gasabo,East Africa MMA,F165,13,2,Tiger Gym,Coach B,F092,11,1,Shark Gym,Coach D,Middleweight,Submission,4,F165,$25.00 ,Submission; R4
+1441,641,10/16/2022,Event 641,Kigali Arena,Kicukiro,East Africa MMA,F054,8,3,Eagle Gym,Coach C,F130,8,5,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F054,$50.00 ,Decision - Unanimous; R5
+1442,642,11/13/2022,Event 642,BK Arena,Nyarugenge,East Africa MMA,F178,12,2,Shark Gym,Coach D,F106,12,0,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F178,$75.00 ,KO/TKO; R3
+1443,643,12/18/2022,Event 643,Kigali Convention Centre,Kigali,Kigali Fight Night,F089,10,3,Lion Gym,Coach A,F145,9,1,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F145,$50.00 ,Decision - Split; R5
+1444,644,1/29/2023,Event 644,Kigali Arena,Gasabo,East Africa MMA,F161,9,4,Tiger Gym,Coach B,F038,9,4,Shark Gym,Coach D,Lightweight,Submission,2,F161,$25.00 ,Submission; R2
+1445,645,2/12/2023,Event 645,BK Arena,Kigali City,Kigali Fight Night,F120,10,1,Eagle Gym,Coach C,F081,9,3,Lion Gym,Coach A,Middleweight,KO/TKO,4,F120,$50.00 ,KO/TKO; R4
+1446,646,3/26/2023,Event 646,Kigali Convention Centre,Kicukiro,East Africa MMA,F031,11,2,Shark Gym,Coach D,F167,7,7,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F031,$75.00 ,Decision - Unanimous; R5
+1447,647,4/16/2023,Event 647,Kigali Arena,Nyarugenge,East Africa MMA,F192,12,2,Lion Gym,Coach A,F058,10,3,Eagle Gym,Coach C,Featherweight,Submission,3,F192,$50.00 ,Submission; R3
+1448,648,5/21/2023,Event 648,BK Arena,Gasabo,East Africa MMA,F065,11,2,Tiger Gym,Coach B,F149,12,1,Shark Gym,Coach D,Welterweight,KO/TKO,2,F065,$25.00 ,KO/TKO; R2
+1449,649,6/11/2023,Event 649,Kigali Convention Centre,KIGALI,Kigali Fight Night,F138,8,5,Eagle Gym,Coach C,F084,10,1,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F138,$50.00 ,Decision - Majority; R5
+1450,650,7/30/2023,Event 650,Kigali Arena,Kicukiro,East Africa MMA,F103,10,4,Shark Gym,Coach D,F176,12,0,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F176,$75.00 ,Decision - Split; R5
+1451,651,8/20/2023,Event 651,BK Arena,Nyarugenge,East Africa MMA,F049,7,6,Lion Gym,Coach A,F132,11,2,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F049,$50.00 ,KO/TKO; R1
+1452,652,9/10/2023,Event 652,Kigali Convention Centre,Gasabo,Kigali Fight Night,F184,12,2,Tiger Gym,Coach B,F071,10,5,Shark Gym,Coach D,Featherweight,Submission,4,F184,$25.00 ,Submission; R4
+1453,653,10/29/2023,Event 653,Kigali Arena,Kigali,East Africa MMA,F086,8,4,Eagle Gym,Coach C,F160,13,0,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F086,$50.00 ,Decision - Unanimous; R5
+1454,654,11/19/2023,Event 654,BK Arena,Kicukiro,Kigali Fight Night,F172,11,2,Shark Gym,Coach D,F044,11,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F172,$75.00 ,KO/TKO; R3
+1455,655,12/17/2023,Event 655,Kigali Convention Centre,Gasabo,Kigali Fight Night,F113,10,4,Lion Gym,Coach A,F194,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F113,$50.00 ,Submission; R2
+1456,656,1/14/2024,Event 656,Kigali Arena,Nyarugenge,East Africa MMA,F028,9,4,Tiger Gym,Coach B,F117,12,1,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F028,$25.00 ,Decision - Majority; R5
+1457,657,2/25/2024,Event 657,BK Arena,KIGALI,Kigali Fight Night,F150,7,5,Eagle Gym,Coach C,F080,9,3,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F080,$50.00 ,Decision - Split; R5
+1458,658,3/17/2024,Event 658,Kigali Convention Centre,Kicukiro,East Africa MMA,F188,12,0,Shark Gym,Coach D,F096,12,1,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F188,$75.00 ,KO/TKO; R4
+1459,659,4/7/2024,Event 659,Kigali Arena,Gasabo,Kigali Fight Night,F036,8,4,Lion Gym,Coach A,F168,13,3,Eagle Gym,Coach C,Welterweight,Submission,3,F036,$50.00 ,Submission; R3
+1460,660,5/26/2024,Event 660,BK Arena,Kigali City,East Africa MMA,F198,12,2,Tiger Gym,Coach B,F059,9,4,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F198,$25.00 ,Decision - Unanimous; R5
+1461,661,6/16/2024,Event 661,Kigali Convention Centre,Gasabo,Kigali Fight Night,F123,10,1,Eagle Gym,Coach C,F102,10,2,Lion Gym,Coach A,Middleweight,KO/TKO,2,F123,$50.00 ,KO/TKO; R2
+1462,662,7/21/2024,Event 662,Kigali Arena,Nyarugenge,East Africa MMA,F074,10,5,Shark Gym,Coach D,F133,12,2,Tiger Gym,Coach B,Featherweight,Submission,4,F074,$75.00 ,Submission; R4
+1463,663,4/10/2022,Event 663,BK Arena,Gasabo,Kigali Fight Night,F155,10,4,Lion Gym,Coach A,F088,12,2,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F155,$50.00 ,Decision - Majority; R5
+1464,664,5/8/2022,Event 664,Kigali Convention Centre,Kicukiro,East Africa MMA,F030,9,3,Tiger Gym,Coach B,F041,11,1,Shark Gym,Coach D,Lightweight,KO/TKO,1,F030,$25.00 ,KO/TKO; R1
+1465,665,6/19/2022,Event 665,Kigali Arena,Kigali,East Africa MMA,F143,11,2,Eagle Gym,Coach C,F105,10,2,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F105,$50.00 ,Decision - Split; R5
+1466,666,7/10/2022,Event 666,BK Arena,Kigali City,East Africa MMA,F052,9,2,Lion Gym,Coach A,F127,12,2,Eagle Gym,Coach C,Welterweight,Decision - Unanimous,5,F052,$50.00 ,Decision - Unanimous; R5
+1467,667,8/21/2022,Event 667,Kigali Convention Centre,Gasabo,Kigali Fight Night,F178,12,2,Shark Gym,Coach D,F051,11,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F178,$75.00 ,KO/TKO; R3
+1468,668,9/11/2022,Event 668,Kigali Arena,Kicukiro,East Africa MMA,F110,6,6,Eagle Gym,Coach C,F067,9,2,Lion Gym,Coach A,Featherweight,Submission,4,F110,$25.00 ,Submission; R4
+1469,669,10/23/2022,Event 669,BK Arena,Nyarugenge,Kigali Fight Night,F024,9,2,Tiger Gym,Coach B,F144,10,1,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F144,$50.00 ,Decision - Split; R5
+1470,670,11/27/2022,Event 670,Kigali Convention Centre,KIGALI,East Africa MMA,F188,12,0,Lion Gym,Coach A,F060,9,2,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F188,$75.00 ,KO/TKO; R1
+1471,671,12/11/2022,Event 671,Kigali Arena,Gasabo,Kigali Fight Night,F077,7,5,Eagle Gym,Coach C,F128,10,5,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F077,$25.00 ,Decision - Unanimous; R5
+1472,672,1/22/2023,Event 672,BK Arena,Kicukiro,East Africa MMA,F155,10,4,Shark Gym,Coach D,F083,8,4,Lion Gym,Coach A,Welterweight,Submission,2,F155,$50.00 ,Submission; R2
+1473,673,2/19/2023,Event 673,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F097,9,1,Tiger Gym,Coach B,F163,13,0,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F097,$75.00 ,Decision - Majority; R5
+1474,674,3/12/2023,Event 674,Kigali Arena,Kigali,East Africa MMA,F042,15,0,Lion Gym,Coach A,F195,12,2,Shark Gym,Coach D,Middleweight,KO/TKO,2,F042,$50.00 ,KO/TKO; R2
+1475,675,4/30/2023,Event 675,BK Arena,Gasabo,Kigali Fight Night,F200,12,0,Eagle Gym,Coach C,F107,12,1,Tiger Gym,Coach B,Featherweight,Submission,3,F200,$25.00 ,Submission; R3
+1476,676,5/14/2023,Event 676,Kigali Convention Centre,Kicukiro,East Africa MMA,F063,9,2,Shark Gym,Coach D,F129,11,3,Lion Gym,Coach A,Welterweight,KO/TKO,4,F063,$50.00 ,KO/TKO; R4
+1477,677,6/25/2023,Event 677,Kigali Arena,Gasabo,Kigali Fight Night,F163,13,0,Tiger Gym,Coach B,F120,10,1,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F120,$75.00 ,Decision - Split; R5
+1478,678,7/16/2023,Event 678,BK Arena,Nyarugenge,East Africa MMA,F085,8,6,Lion Gym,Coach A,F182,12,0,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F085,$25.00 ,Decision - Unanimous; R5
+1479,679,8/13/2023,Event 679,Kigali Convention Centre,KIGALI,Kigali Fight Night,F191,12,0,Eagle Gym,Coach C,F054,8,3,Tiger Gym,Coach B,Heavyweight,Submission,3,F191,$50.00 ,Submission; R3
+1480,680,9/24/2023,Event 680,Kigali Arena,Kigali City,East Africa MMA,F120,10,1,Shark Gym,Coach D,F106,12,0,Lion Gym,Coach A,Middleweight,KO/TKO,2,F120,$75.00 ,KO/TKO; R2
+1481,681,10/8/2023,Event 681,BK Arena,Gasabo,Kigali Fight Night,F038,9,4,Tiger Gym,Coach B,F140,7,4,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F038,$50.00 ,Decision - Majority; R5
+1482,682,11/12/2023,Event 682,Kigali Convention Centre,Kicukiro,East Africa MMA,F151,11,1,Lion Gym,Coach A,F062,8,4,Shark Gym,Coach D,Welterweight,Submission,4,F151,$25.00 ,Submission; R4
+1483,683,12/3/2023,Event 683,Kigali Arena,Nyarugenge,East Africa MMA,F097,9,1,Eagle Gym,Coach C,F177,12,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F097,$50.00 ,KO/TKO; R3
+1484,684,1/28/2024,Event 684,BK Arena,Kigali,East Africa MMA,F173,12,0,Shark Gym,Coach D,F090,13,0,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F090,$75.00 ,Decision - Split; R5
+1485,685,2/18/2024,Event 685,Kigali Convention Centre,Gasabo,Kigali Fight Night,F049,7,6,Lion Gym,Coach A,F122,13,2,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F049,$50.00 ,Decision - Unanimous; R5
+1486,686,3/10/2024,Event 686,Kigali Arena,KICUKIRO,East Africa MMA,F185,12,0,Tiger Gym,Coach B,F050,12,3,Shark Gym,Coach D,Featherweight,KO/TKO,1,F185,$25.00 ,KO/TKO; R1
+1487,687,4/14/2024,Event 687,BK Arena,Nyarugenge,Kigali Fight Night,F080,9,3,Eagle Gym,Coach C,F157,8,2,Lion Gym,Coach A,Welterweight,Submission,3,F080,$50.00 ,Submission; R3
+1488,688,5/19/2024,Event 688,Kigali Convention Centre,Kigali,Kigali Fight Night,F144,10,1,Shark Gym,Coach D,F072,9,5,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F144,$75.00 ,Decision - Majority; R5
+1489,689,6/2/2024,Event 689,Kigali Arena,Gasabo,Kigali Fight Night,F112,9,3,Lion Gym,Coach A,F199,12,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F112,$50.00 ,KO/TKO; R2
+1490,690,7/28/2024,Event 690,BK Arena,Kigali City,East Africa MMA,F168,13,3,Tiger Gym,Coach B,F095,10,3,Shark Gym,Coach D,Middleweight,Submission,4,F168,$25.00 ,Submission; R4
+1491,691,4/17/2022,Event 691,Kigali Convention Centre,Gasabo,Kigali Fight Night,F057,9,4,Eagle Gym,Coach C,F133,12,2,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F057,$50.00 ,Decision - Unanimous; R5
+1492,692,5/29/2022,Event 692,Kigali Arena,Kicukiro,East Africa MMA,F181,12,2,Shark Gym,Coach D,F109,8,5,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F181,$75.00 ,KO/TKO; R3
+1493,693,6/19/2022,Event 693,BK Arena,Nyarugenge,East Africa MMA,F092,11,1,Lion Gym,Coach A,F148,10,2,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F148,$50.00 ,Decision - Split; R5
+1494,694,7/24/2022,Event 694,Kigali Convention Centre,Kigali,Kigali Fight Night,F164,10,3,Tiger Gym,Coach B,F041,11,1,Shark Gym,Coach D,Lightweight,Submission,2,F164,$25.00 ,Submission; R2
+1495,695,8/28/2022,Event 695,Kigali Arena,Gasabo,East Africa MMA,F123,10,1,Eagle Gym,Coach C,F084,10,1,Lion Gym,Coach A,Middleweight,KO/TKO,4,F123,$50.00 ,KO/TKO; R4
+1496,696,9/18/2022,Event 696,BK Arena,KIGALI,East Africa MMA,F034,8,5,Shark Gym,Coach D,F170,8,6,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F034,$75.00 ,Decision - Unanimous; R5
+1497,697,10/30/2022,Event 697,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F195,12,2,Lion Gym,Coach A,F061,10,2,Eagle Gym,Coach C,Featherweight,Submission,3,F195,$50.00 ,Submission; R3
+1498,698,11/20/2022,Event 698,Kigali Arena,Nyarugenge,East Africa MMA,F068,10,4,Tiger Gym,Coach B,F152,8,4,Shark Gym,Coach D,Welterweight,KO/TKO,2,F068,$25.00 ,KO/TKO; R2
+1499,699,12/18/2022,Event 699,BK Arena,Kigali,Kigali Fight Night,F141,13,1,Eagle Gym,Coach C,F087,10,3,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F141,$50.00 ,Decision - Majority; R5
+1500,700,1/8/2023,Event 700,Kigali Convention Centre,Gasabo,East Africa MMA,F106,12,0,Shark Gym,Coach D,F179,12,0,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F179,$75.00 ,Decision - Split; R5
+1501,701,2/26/2023,Event 701,Kigali Arena,Kigali City,Kigali Fight Night,F052,9,2,Lion Gym,Coach A,F135,11,3,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F052,$50.00 ,KO/TKO; R1
+1502,702,3/19/2023,Event 702,BK Arena,Kicukiro,East Africa MMA,F187,12,2,Tiger Gym,Coach B,F074,10,5,Shark Gym,Coach D,Featherweight,Submission,4,F187,$25.00 ,Submission; R4
+1503,703,4/23/2023,Event 703,Kigali Convention Centre,Nyarugenge,East Africa MMA,F089,10,3,Eagle Gym,Coach C,F163,13,0,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F089,$50.00 ,Decision - Unanimous; R5
+1504,704,5/28/2023,Event 704,Kigali Arena,Kigali,East Africa MMA,F175,7,5,Shark Gym,Coach D,F047,10,5,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F175,$75.00 ,KO/TKO; R3
+1505,705,6/11/2023,Event 705,BK Arena,Gasabo,Kigali Fight Night,F116,11,2,Lion Gym,Coach A,F197,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F116,$50.00 ,Submission; R2
+1506,706,7/23/2023,Event 706,Kigali Convention Centre,KIGALI,East Africa MMA,F031,11,2,Tiger Gym,Coach B,F120,10,1,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F031,$25.00 ,Decision - Majority; R5
+1507,707,8/20/2023,Event 707,Kigali Arena,Kicukiro,East Africa MMA,F153,11,1,Eagle Gym,Coach C,F083,8,4,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F083,$50.00 ,Decision - Split; R5
+1508,708,9/17/2023,Event 708,BK Arena,Nyarugenge,East Africa MMA,F191,12,0,Shark Gym,Coach D,F099,10,1,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F191,$75.00 ,KO/TKO; R4
+1509,709,10/15/2023,Event 709,Kigali Convention Centre,Gasabo,Kigali Fight Night,F039,8,5,Lion Gym,Coach A,F171,13,3,Eagle Gym,Coach C,Welterweight,Submission,3,F039,$50.00 ,Submission; R3
+1510,710,11/26/2023,Event 710,Kigali Arena,Kigali City,East Africa MMA,F201,12,2,Tiger Gym,Coach B,F062,8,4,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F201,$25.00 ,Decision - Unanimous; R5
+1511,711,12/10/2023,Event 711,BK Arena,Gasabo,East Africa MMA,F126,9,4,Eagle Gym,Coach C,F105,10,2,Lion Gym,Coach A,Middleweight,KO/TKO,2,F126,$50.00 ,KO/TKO; R2
+1512,712,1/21/2024,Event 712,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F077,7,5,Shark Gym,Coach D,F136,12,2,Tiger Gym,Coach B,Featherweight,Submission,4,F077,$75.00 ,Submission; R4
+1513,713,2/11/2024,Event 713,Kigali Arena,Nyarugenge,East Africa MMA,F158,12,1,Lion Gym,Coach A,F091,11,2,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F158,$50.00 ,Decision - Majority; R5
+1514,714,3/24/2024,Event 714,BK Arena,Kigali,East Africa MMA,F033,11,3,Tiger Gym,Coach B,F044,11,2,Shark Gym,Coach D,Lightweight,KO/TKO,1,F033,$25.00 ,KO/TKO; R1
+1515,715,4/28/2024,Event 715,Kigali Convention Centre,Gasabo,Kigali Fight Night,F146,7,6,Eagle Gym,Coach C,F108,11,1,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F108,$50.00 ,Decision - Split; R5
+1516,716,5/26/2024,Event 716,Kigali Arena,Kigali City,East Africa MMA,F055,9,4,Lion Gym,Coach A,F130,8,5,Eagle Gym,Coach C,Welterweight,Decision - Unanimous,5,F055,$50.00 ,Decision - Unanimous; R5
+1517,717,6/16/2024,Event 717,BK Arena,KIGALI,Kigali Fight Night,F181,12,2,Shark Gym,Coach D,F054,8,3,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F181,$75.00 ,KO/TKO; R3
+1518,718,7/21/2024,Event 718,Kigali Convention Centre,Gasabo,East Africa MMA,F113,10,4,Eagle Gym,Coach C,F070,10,3,Lion Gym,Coach A,Featherweight,Submission,4,F113,$25.00 ,Submission; R4
+1519,719,4/24/2022,Event 719,Kigali Arena,Kicukiro,Kigali Fight Night,F027,12,2,Tiger Gym,Coach B,F147,12,1,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F147,$50.00 ,Decision - Split; R5
+1520,720,5/8/2022,Event 720,BK Arena,Nyarugenge,East Africa MMA,F191,12,0,Lion Gym,Coach A,F063,9,2,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F191,$75.00 ,KO/TKO; R1
+1521,721,6/26/2022,Event 721,Kigali Convention Centre,Kigali,Kigali Fight Night,F080,9,3,Eagle Gym,Coach C,F131,9,2,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F080,$25.00 ,Decision - Unanimous; R5
+1522,722,7/17/2022,Event 722,Kigali Arena,Gasabo,East Africa MMA,F158,12,1,Shark Gym,Coach D,F086,8,4,Lion Gym,Coach A,Welterweight,Submission,2,F158,$50.00 ,Submission; R2
+1523,723,8/14/2022,Event 723,BK Arena,Kicukiro,Kigali Fight Night,F100,9,3,Tiger Gym,Coach B,F166,8,4,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F100,$75.00 ,Decision - Majority; R5
+1524,724,9/25/2022,Event 724,Kigali Convention Centre,Nyarugenge,East Africa MMA,F045,9,3,Lion Gym,Coach A,F198,12,2,Shark Gym,Coach D,Middleweight,KO/TKO,2,F045,$50.00 ,KO/TKO; R2
+1525,725,10/9/2022,Event 725,Kigali Arena,KIGALI,Kigali Fight Night,F203,12,0,Eagle Gym,Coach C,F110,6,6,Tiger Gym,Coach B,Featherweight,Submission,3,F203,$25.00 ,Submission; R3
+1526,726,11/27/2022,Event 726,BK Arena,Gasabo,East Africa MMA,F066,8,5,Shark Gym,Coach D,F132,11,2,Lion Gym,Coach A,Welterweight,KO/TKO,4,F066,$50.00 ,KO/TKO; R4
+1527,727,12/4/2022,Event 727,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F166,8,4,Tiger Gym,Coach B,F123,10,1,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F123,$75.00 ,Decision - Split; R5
+1528,728,1/15/2023,Event 728,Kigali Arena,Nyarugenge,East Africa MMA,F088,12,2,Lion Gym,Coach A,F185,12,0,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F088,$25.00 ,Decision - Unanimous; R5
+1529,729,2/26/2023,Event 729,BK Arena,Kigali,Kigali Fight Night,F194,12,0,Eagle Gym,Coach C,F057,9,4,Tiger Gym,Coach B,Heavyweight,Submission,3,F194,$50.00 ,Submission; R3
+1530,730,3/26/2023,Event 730,Kigali Convention Centre,Gasabo,East Africa MMA,F123,10,1,Shark Gym,Coach D,F109,8,5,Lion Gym,Coach A,Middleweight,KO/TKO,2,F123,$75.00 ,KO/TKO; R2
+1531,731,4/16/2023,Event 731,Kigali Arena,Kigali City,Kigali Fight Night,F041,11,1,Tiger Gym,Coach B,F143,11,2,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F041,$50.00 ,Decision - Majority; R5
+1532,732,5/28/2023,Event 732,BK Arena,Kicukiro,East Africa MMA,F154,10,2,Lion Gym,Coach A,F065,11,2,Shark Gym,Coach D,Welterweight,Submission,4,F154,$25.00 ,Submission; R4
+1533,733,6/18/2023,Event 733,Kigali Convention Centre,Nyarugenge,East Africa MMA,F100,9,3,Eagle Gym,Coach C,F180,12,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F100,$50.00 ,KO/TKO; R3
+1534,734,7/9/2023,Event 734,Kigali Arena,Gasabo,East Africa MMA,F176,12,0,Shark Gym,Coach D,F093,10,2,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F093,$75.00 ,Decision - Split; R5
+1535,735,8/27/2023,Event 735,BK Arena,KIGALI,Kigali Fight Night,F052,9,2,Lion Gym,Coach A,F125,10,3,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F052,$50.00 ,Decision - Unanimous; R5
+1536,736,9/10/2023,Event 736,Kigali Convention Centre,Gasabo,East Africa MMA,F188,12,0,Tiger Gym,Coach B,F053,10,2,Shark Gym,Coach D,Featherweight,KO/TKO,1,F188,$25.00 ,KO/TKO; R1
+1537,737,10/29/2023,Event 737,Kigali Arena,Kicukiro,Kigali Fight Night,F083,8,4,Eagle Gym,Coach C,F160,13,0,Lion Gym,Coach A,Welterweight,Submission,3,F083,$50.00 ,Submission; R3
+1538,738,11/19/2023,Event 738,BK Arena,Nyarugenge,East Africa MMA,F147,12,1,Shark Gym,Coach D,F075,9,4,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F147,$75.00 ,Decision - Majority; R5
+1539,739,12/17/2023,Event 739,Kigali Convention Centre,Kigali,Kigali Fight Night,F115,11,3,Lion Gym,Coach A,F202,12,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F115,$50.00 ,KO/TKO; R2
+1540,740,1/7/2024,Event 740,Kigali Arena,Gasabo,East Africa MMA,F171,13,3,Tiger Gym,Coach B,F098,12,1,Shark Gym,Coach D,Middleweight,Submission,4,F171,$25.00 ,Submission; R4
+1541,741,2/11/2024,Event 741,BK Arena,Kigali City,East Africa MMA,F060,9,2,Eagle Gym,Coach C,F136,12,2,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F060,$50.00 ,Decision - Unanimous; R5
+1542,742,3/24/2024,Event 742,Kigali Convention Centre,Kicukiro,East Africa MMA,F184,12,2,Shark Gym,Coach D,F112,9,3,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F184,$75.00 ,KO/TKO; R3
+1543,743,4/21/2024,Event 743,Kigali Arena,Nyarugenge,East Africa MMA,F095,10,3,Lion Gym,Coach A,F151,11,1,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F151,$50.00 ,Decision - Split; R5
+1544,744,5/12/2024,Event 744,BK Arena,Kigali,Kigali Fight Night,F167,7,7,Tiger Gym,Coach B,F044,11,2,Shark Gym,Coach D,Lightweight,Submission,2,F167,$25.00 ,Submission; R2
+1545,745,6/23/2024,Event 745,Kigali Convention Centre,Gasabo,Kigali Fight Night,F126,9,4,Eagle Gym,Coach C,F087,10,3,Lion Gym,Coach A,Middleweight,KO/TKO,4,F126,$50.00 ,KO/TKO; R4
+1546,746,7/14/2024,Event 746,Kigali Arena,KIGALI,East Africa MMA,F037,7,6,Shark Gym,Coach D,F173,12,0,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F037,$75.00 ,Decision - Unanimous; R5
+1547,747,4/10/2022,Event 747,BK Arena,Gasabo,Kigali Fight Night,F198,12,2,Lion Gym,Coach A,F064,6,3,Eagle Gym,Coach C,Featherweight,Submission,3,F198,$50.00 ,Submission; R3
+1548,748,5/22/2022,Event 748,Kigali Convention Centre,Kicukiro,East Africa MMA,F071,10,5,Tiger Gym,Coach B,F155,10,4,Shark Gym,Coach D,Welterweight,KO/TKO,2,F071,$25.00 ,KO/TKO; R2
+1549,749,6/12/2022,Event 749,Kigali Arena,Nyarugenge,East Africa MMA,F144,10,1,Eagle Gym,Coach C,F090,13,0,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F144,$50.00 ,Decision - Majority; R5
+1550,750,7/31/2022,Event 750,BK Arena,Kigali,Kigali Fight Night,F109,8,5,Shark Gym,Coach D,F182,12,0,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F182,$75.00 ,Decision - Split; R5
+1551,751,8/21/2022,Event 751,Kigali Convention Centre,Gasabo,East Africa MMA,F055,9,4,Lion Gym,Coach A,F138,8,5,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F055,$50.00 ,KO/TKO; R1
+1552,752,9/11/2022,Event 752,Kigali Arena,Kigali City,East Africa MMA,F190,12,2,Tiger Gym,Coach B,F077,7,5,Shark Gym,Coach D,Featherweight,Submission,4,F190,$25.00 ,Submission; R4
+1553,753,10/16/2022,Event 753,BK Arena,Kicukiro,East Africa MMA,F092,11,1,Eagle Gym,Coach C,F166,8,4,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F092,$50.00 ,Decision - Unanimous; R5
+1554,754,11/13/2022,Event 754,Kigali Convention Centre,Nyarugenge,East Africa MMA,F178,12,2,Shark Gym,Coach D,F050,12,3,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F178,$75.00 ,KO/TKO; R3
+1555,755,12/18/2022,Event 755,Kigali Arena,Kigali,Kigali Fight Night,F119,14,1,Lion Gym,Coach A,F200,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F119,$50.00 ,Submission; R2
+1556,756,1/29/2023,Event 756,BK Arena,Gasabo,East Africa MMA,F034,8,5,Tiger Gym,Coach B,F123,10,1,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F034,$25.00 ,Decision - Majority; R5
+1557,757,2/12/2023,Event 757,Kigali Convention Centre,KIGALI,Kigali Fight Night,F156,8,6,Eagle Gym,Coach C,F086,8,4,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F086,$50.00 ,Decision - Split; R5
+1558,758,3/19/2023,Event 758,Kigali Arena,Kicukiro,East Africa MMA,F194,12,0,Shark Gym,Coach D,F102,10,2,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F194,$75.00 ,KO/TKO; R4
+1559,759,4/9/2023,Event 759,BK Arena,Nyarugenge,East Africa MMA,F042,15,0,Lion Gym,Coach A,F174,8,5,Eagle Gym,Coach C,Welterweight,Submission,3,F042,$50.00 ,Submission; R3
+1560,760,5/21/2023,Event 760,Kigali Convention Centre,Gasabo,East Africa MMA,F204,12,2,Tiger Gym,Coach B,F065,11,2,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F204,$25.00 ,Decision - Unanimous; R5
+1561,761,6/25/2023,Event 761,Kigali Arena,Kigali City,East Africa MMA,F129,11,3,Eagle Gym,Coach C,F108,11,1,Lion Gym,Coach A,Middleweight,KO/TKO,2,F129,$50.00 ,KO/TKO; R2
+1562,762,7/16/2023,Event 762,BK Arena,Gasabo,East Africa MMA,F080,9,3,Shark Gym,Coach D,F139,12,1,Tiger Gym,Coach B,Featherweight,Submission,4,F080,$75.00 ,Submission; R4
+1563,763,8/13/2023,Event 763,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F161,9,4,Lion Gym,Coach A,F094,13,1,Eagle Gym,Coach C,Welterweight,Decision - Majority,5,F161,$50.00 ,Decision - Majority; R5
+1564,764,9/24/2023,Event 764,Kigali Arena,Nyarugenge,East Africa MMA,F036,8,4,Tiger Gym,Coach B,F047,10,5,Shark Gym,Coach D,Lightweight,KO/TKO,1,F036,$25.00 ,KO/TKO; R1
+1565,765,10/15/2023,Event 765,BK Arena,Kigali,Kigali Fight Night,F149,12,1,Eagle Gym,Coach C,F111,11,1,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F111,$50.00 ,Decision - Split; R5
+1566,766,11/12/2023,Event 766,Kigali Convention Centre,Gasabo,East Africa MMA,F058,10,3,Lion Gym,Coach A,F131,9,2,Eagle Gym,Coach C,Welterweight,Decision - Unanimous,5,F058,$50.00 ,Decision - Unanimous; R5
+1567,767,12/3/2023,Event 767,Kigali Arena,Kicukiro,Kigali Fight Night,F184,12,2,Shark Gym,Coach D,F057,9,4,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F184,$75.00 ,KO/TKO; R3
+1568,768,1/21/2024,Event 768,BK Arena,Nyarugenge,East Africa MMA,F116,11,2,Eagle Gym,Coach C,F073,9,3,Lion Gym,Coach A,Featherweight,Submission,4,F116,$25.00 ,Submission; R4
+1569,769,2/25/2024,Event 769,Kigali Convention Centre,KIGALI,Kigali Fight Night,F030,9,3,Tiger Gym,Coach B,F150,7,5,Eagle Gym,Coach C,Middleweight,Decision - Split,5,F150,$50.00 ,Decision - Split; R5
+1570,770,3/17/2024,Event 770,Kigali Arena,Kigali City,East Africa MMA,F194,12,0,Lion Gym,Coach A,F066,8,5,Tiger Gym,Coach B,Heavyweight,KO/TKO,1,F194,$75.00 ,KO/TKO; R1
+1571,771,4/28/2024,Event 771,BK Arena,Gasabo,Kigali Fight Night,F083,8,4,Eagle Gym,Coach C,F134,8,4,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F083,$25.00 ,Decision - Unanimous; R5
+1572,772,5/19/2024,Event 772,Kigali Convention Centre,Kicukiro,East Africa MMA,F161,9,4,Shark Gym,Coach D,F089,10,3,Lion Gym,Coach A,Welterweight,Submission,2,F161,$50.00 ,Submission; R2
+1573,773,6/9/2024,Event 773,Kigali Arena,Nyarugenge,Kigali Fight Night,F103,10,4,Tiger Gym,Coach B,F169,9,2,Eagle Gym,Coach C,Lightweight,Decision - Majority,5,F103,$75.00 ,Decision - Majority; R5
+1574,774,7/28/2024,Event 774,BK Arena,Kigali,East Africa MMA,F048,9,3,Lion Gym,Coach A,F201,12,2,Shark Gym,Coach D,Middleweight,KO/TKO,2,F048,$50.00 ,KO/TKO; R2
+1575,775,4/3/2022,Event 775,Kigali Convention Centre,Gasabo,Kigali Fight Night,F206,12,0,Eagle Gym,Coach C,F113,10,4,Tiger Gym,Coach B,Featherweight,Submission,3,F206,$25.00 ,Submission; R3
+1576,776,5/15/2022,Event 776,Kigali Arena,KIGALI,East Africa MMA,F069,8,5,Shark Gym,Coach D,F135,11,3,Lion Gym,Coach A,Welterweight,KO/TKO,4,F069,$50.00 ,KO/TKO; R4
+1577,777,6/5/2022,Event 777,BK Arena,Kicukiro,Kigali Fight Night,F169,9,2,Tiger Gym,Coach B,F126,9,4,Eagle Gym,Coach C,Lightweight,Decision - Split,5,F126,$75.00 ,Decision - Split; R5
+1578,778,7/10/2022,Event 778,Kigali Convention Centre,Nyarugenge,East Africa MMA,F091,11,2,Lion Gym,Coach A,F188,12,0,Shark Gym,Coach D,Bantamweight,Decision - Unanimous,5,F091,$25.00 ,Decision - Unanimous; R5
+1579,779,8/28/2022,Event 779,Kigali Arena,Gasabo,Kigali Fight Night,F197,12,0,Eagle Gym,Coach C,F060,9,2,Tiger Gym,Coach B,Heavyweight,Submission,3,F197,$50.00 ,Submission; R3
+1580,780,9/18/2022,Event 780,BK Arena,Kigali,East Africa MMA,F126,9,4,Shark Gym,Coach D,F112,9,3,Lion Gym,Coach A,Middleweight,KO/TKO,2,F126,$75.00 ,KO/TKO; R2
+1581,781,10/23/2022,Event 781,Kigali Convention Centre,Kigali City,Kigali Fight Night,F044,11,2,Tiger Gym,Coach B,F146,7,6,Eagle Gym,Coach C,Featherweight,Decision - Majority,5,F044,$50.00 ,Decision - Majority; R5
+1582,782,11/20/2022,Event 782,Kigali Arena,Kicukiro,East Africa MMA,F157,8,2,Lion Gym,Coach A,F068,10,4,Shark Gym,Coach D,Welterweight,Submission,4,F157,$25.00 ,Submission; R4
+1583,783,12/11/2022,Event 783,BK Arena,Gasabo,East Africa MMA,F103,10,4,Eagle Gym,Coach C,F183,12,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F103,$50.00 ,KO/TKO; R3
+1584,784,1/8/2023,Event 784,Kigali Convention Centre,Nyarugenge,East Africa MMA,F179,12,0,Shark Gym,Coach D,F096,12,1,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F096,$75.00 ,Decision - Split; R5
+1585,785,2/19/2023,Event 785,Kigali Arena,KIGALI,Kigali Fight Night,F055,9,4,Lion Gym,Coach A,F128,10,5,Eagle Gym,Coach C,Middleweight,Decision - Unanimous,5,F055,$50.00 ,Decision - Unanimous; R5
+1586,786,3/12/2023,Event 786,BK Arena,Kicukiro,East Africa MMA,F191,12,0,Tiger Gym,Coach B,F056,10,2,Shark Gym,Coach D,Featherweight,KO/TKO,1,F191,$25.00 ,KO/TKO; R1
+1587,787,4/30/2023,Event 787,Kigali Convention Centre,Gasabo,Kigali Fight Night,F086,8,4,Eagle Gym,Coach C,F163,13,0,Lion Gym,Coach A,Welterweight,Submission,3,F086,$50.00 ,Submission; R3
+1588,788,5/14/2023,Event 788,Kigali Arena,Nyarugenge,East Africa MMA,F150,7,5,Shark Gym,Coach D,F078,9,4,Tiger Gym,Coach B,Lightweight,Decision - Majority,5,F150,$75.00 ,Decision - Majority; R5
+1589,789,6/25/2023,Event 789,BK Arena,Kigali,East Africa MMA,F118,12,3,Lion Gym,Coach A,F205,12,2,Eagle Gym,Coach C,Heavyweight,KO/TKO,2,F118,$50.00 ,KO/TKO; R2
+1590,790,7/30/2023,Event 790,Kigali Convention Centre,Kigali City,East Africa MMA,F174,8,5,Tiger Gym,Coach B,F101,8,4,Shark Gym,Coach D,Middleweight,Submission,4,F174,$25.00 ,Submission; R4
+1591,791,8/20/2023,Event 791,Kigali Arena,Gasabo,East Africa MMA,F063,9,2,Eagle Gym,Coach C,F139,12,1,Lion Gym,Coach A,Bantamweight,Decision - Unanimous,5,F063,$50.00 ,Decision - Unanimous; R5
+1592,792,9/17/2023,Event 792,BK Arena,KICUKIRO,Kigali Fight Night,F187,12,2,Shark Gym,Coach D,F115,11,3,Tiger Gym,Coach B,Featherweight,KO/TKO,3,F187,$75.00 ,KO/TKO; R3
+1593,793,10/8/2023,Event 793,Kigali Convention Centre,Nyarugenge,Kigali Fight Night,F098,12,1,Lion Gym,Coach A,F154,10,2,Eagle Gym,Coach C,Welterweight,Decision - Split,5,F154,$50.00 ,Decision - Split; R5
+1594,794,11/26/2023,Event 794,Kigali Arena,Kigali,Kigali Fight Night,F170,8,6,Tiger Gym,Coach B,F047,10,5,Shark Gym,Coach D,Lightweight,Submission,2,F170,$25.00 ,Submission; R2
+1595,795,12/10/2023,Event 795,BK Arena,Gasabo,East Africa MMA,F129,11,3,Eagle Gym,Coach C,F090,13,0,Lion Gym,Coach A,Middleweight,KO/TKO,4,F129,$50.00 ,KO/TKO; R4
+1596,796,1/14/2024,Event 796,Kigali Convention Centre,Kigali,East Africa MMA,F040,7,5,Shark Gym,Coach D,F176,12,0,Tiger Gym,Coach B,Heavyweight,Decision - Unanimous,5,F040,$75.00 ,Decision - Unanimous; R5
+1597,797,2/18/2024,Event 797,Kigali Arena,Kicukiro,East Africa MMA,F201,12,2,Lion Gym,Coach A,F067,9,2,Eagle Gym,Coach C,Featherweight,Submission,3,F201,$50.00 ,Submission; R3
+1598,798,3/10/2024,Event 798,BK Arena,Nyarugenge,East Africa MMA,F074,10,5,Tiger Gym,Coach B,F158,12,1,Shark Gym,Coach D,Welterweight,KO/TKO,2,F074,$25.00 ,KO/TKO; R2
+1599,799,4/21/2024,Event 799,Kigali Convention Centre,Gasabo,Kigali Fight Night,F147,12,1,Eagle Gym,Coach C,F093,10,2,Lion Gym,Coach A,Lightweight,Decision - Majority,5,F147,$50.00 ,Decision - Majority; R5
+1600,800,5/26/2024,Event 800,Kigali Arena,KIGALI,East Africa MMA,F112,9,3,Shark Gym,Coach D,F185,12,0,Tiger Gym,Coach B,Bantamweight,Decision - Split,5,F185,$75.00 ,Decision - Split; R5
+1601,801,6/16/2024,Event 801,BK Arena,Kigali City,East Africa MMA,F058,10,3,Lion Gym,Coach A,F131,9,2,Eagle Gym,Coach C,Middleweight,KO/TKO,1,F058,$50.00 ,KO/TKO; R1
+1602,802,7/14/2024,Event 802,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F193,12,2,Tiger Gym,Coach B,F080,9,3,Shark Gym,Coach D,Featherweight,Submission,4,F193,$25.00 ,Submission; R4
+1603,803,4/17/2022,Event 803,Kigali Arena,Nyarugenge,East Africa MMA,F095,10,3,Eagle Gym,Coach C,F169,9,2,Lion Gym,Coach A,Welterweight,Decision - Unanimous,5,F095,$50.00 ,Decision - Unanimous; R5
+1604,804,5/29/2022,Event 804,BK Arena,Kigali,East Africa MMA,F181,12,2,Shark Gym,Coach D,F053,10,2,Tiger Gym,Coach B,Lightweight,KO/TKO,3,F181,$75.00 ,KO/TKO; R3
+1605,805,6/19/2022,Event 805,Kigali Convention Centre,Gasabo,Kigali Fight Night,F122,13,2,Lion Gym,Coach A,F203,12,0,Eagle Gym,Coach C,Heavyweight,Submission,2,F122,$50.00 ,Submission; R2
+1606,806,7/24/2022,Event 806,Kigali Arena,Kicukiro,East Africa MMA,F037,7,6,Tiger Gym,Coach B,F126,9,4,Shark Gym,Coach D,Middleweight,Decision - Majority,5,F037,$25.00 ,Decision - Majority; R5
+1607,807,8/14/2022,Event 807,BK Arena,Nyarugenge,Kigali Fight Night,F159,9,4,Eagle Gym,Coach C,F089,10,3,Lion Gym,Coach A,Bantamweight,Decision - Split,5,F089,$50.00 ,Decision - Split; R5
+1608,808,9/25/2022,Event 808,Kigali Convention Centre,Kigali,East Africa MMA,F197,12,0,Shark Gym,Coach D,F105,10,2,Tiger Gym,Coach B,Featherweight,KO/TKO,4,F197,$75.00 ,KO/TKO; R4
+1609,809,10/9/2022,Event 809,Kigali Arena,Gasabo,Kigali Fight Night,F045,9,3,Lion Gym,Coach A,F177,12,2,Eagle Gym,Coach C,Welterweight,Submission,3,F045,$50.00 ,Submission; R3
+1610,810,11/27/2022,Event 810,BK Arena,KIGALI,East Africa MMA,F207,12,2,Tiger Gym,Coach B,F068,10,4,Shark Gym,Coach D,Lightweight,Decision - Unanimous,5,F207,$25.00 ,Decision - Unanimous; R5
+1611,811,12/4/2022,Event 811,Kigali Convention Centre,Kicukiro,Kigali Fight Night,F132,11,2,Eagle Gym,Coach C,F111,11,1,Lion Gym,Coach A,Middleweight,KO/TKO,2,F132,$50.00 ,KO/TKO; R2
